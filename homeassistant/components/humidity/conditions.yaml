@@ -36,8 +36,6 @@ is_value:
       selector:
         automation_behavior:
           translation_key: condition_behavior
-          behavior:
-            - all
-            - any
+          mode: condition
     above: *number_or_entity
     below: *number_or_entity

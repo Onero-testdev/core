@@ -5,10 +5,7 @@
     selector:
       automation_behavior:
         translation_key: trigger_behavior
-        behavior:
-          - first
-          - last
-          - any
+        mode: trigger
 
 .number_or_entity: &number_or_entity
   required: false

@@ -7,9 +7,9 @@ stopped_playing:
       required: true
       default: any
       selector:
-        select:
+        automation_behavior:
           translation_key: trigger_behavior
-          options:
+          behavior:
             - first
             - last
             - any

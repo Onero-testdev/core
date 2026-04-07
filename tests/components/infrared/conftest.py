@@ -3,7 +3,7 @@
 from infrared_protocols import Command as InfraredCommand
 import pytest
 
-from homeassistant.components.infrared import InfraredEntity
+from homeassistant.components.infrared import InfraredEmitterEntity
 from homeassistant.components.infrared.const import DOMAIN
 from homeassistant.core import HomeAssistant
 from homeassistant.setup import async_setup_component
@@ -16,7 +16,7 @@ async def init_integration(hass: HomeAssistant) -> None:
     await hass.async_block_till_done()
 
 
-class MockInfraredEntity(InfraredEntity):
+class MockInfraredEntity(InfraredEmitterEntity):
     """Mock infrared entity for testing."""
 
     _attr_has_entity_name = True

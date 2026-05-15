@@ -1,0 +1,3467 @@
+homeassistant/components/ouman_eh_800/const.py
+  ai_agent 1-15
+homeassistant/components/subaru/lock.py
+  ai_agent 56-58
+homeassistant/components/home_connect/utils.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 21-22
+homeassistant/components/xiaomi_aqara/__init__.py
+  ai_agent 2
+homeassistant/components/devolo_home_control/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 109-112
+tests/pylint/quality_scale/test_reauthentication_flow.py
+  ai_agent 1-153
+homeassistant/components/guardian/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 191-192
+homeassistant/components/nmap_tracker/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 42-44,151,263
+homeassistant/components/inels/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 110-113
+homeassistant/components/recorder/core.py
+  ai_agent 379,806,871-874,1226-1228,1304-1307
+homeassistant/components/steamist/discovery.py
+  ai_agent 116
+homeassistant/components/eufylife_ble/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 64-65,68-69
+homeassistant/components/ezviz/image.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 80-82
+homeassistant/components/logbook/queries/entities.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 63
+homeassistant/components/radio_frequency/entity.py
+  ai_agent 1-82
+homeassistant/components/camera/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 448,548-554,713-716,1008-1010
+homeassistant/components/backup/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 15-30
+homeassistant/components/eurotronic_cometblue/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 60
+homeassistant/components/sftp_storage/config_flow.py
+  ai_agent 61,65,88-91,158-159,161-162
+homeassistant/components/stream/worker.py
+  ai_agent 188-192,206-211,674-675
+homeassistant/components/motionmount/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 48-49
+homeassistant/components/mastodon/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 29-30
+tests/components/hassio/test_system_health.py
+  ai_agent 330
+homeassistant/components/forecast_solar/diagnostics.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 39-41
+homeassistant/components/cookidoo/calendar.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 61
+homeassistant/components/pooldose/entity.py
+  ai_agent 35-37
+homeassistant/components/devolo_home_control/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 118-121
+homeassistant/components/sensor/recorder.py
+  ai_agent 95-96,169-170,411,413-416,448,667-668
+tests/pylint/quality_scale/__init__.py
+  ai_agent 1
+homeassistant/components/sonos/__init__.py
+  ai_agent 2,221-222,228-229,431-432,463-465,476-478,482-483
+homeassistant/components/simplepush/config_flow.py
+  ai_agent 70-71
+homeassistant/components/smartthings/sensor.py
+  ai_agent 1322-1324,1406-1410
+homeassistant/components/dsmr_reader/definitions.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 41
+homeassistant/components/motioneye/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 21,31,197-198,201-237,239-240
+homeassistant/components/roku/media_player.py
+  ai_agent 344
+homeassistant/components/konnected/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2,413-414
+homeassistant/components/roon/server.py
+  ai_agent 173-174
+homeassistant/components/toon/switch.py
+  ai_agent 63,71,83,91
+homeassistant/components/mcp/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 247-250,255-256,274-276,438,440-443
+homeassistant/components/nasweb/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 29-32,166-174
+homeassistant/helpers/storage.py
+  ai_agent 372-373
+tests/components/indevolt/test_init.py
+  ai_agent 9-10,13,36-58
+tests/components/satel_integra/test_config_flow.py
+  ai_agent 16,43,199,245-314,328-332,336-344,405-488
+homeassistant/components/radio_frequency/__init__.py
+  ai_agent 17-20
+homeassistant/components/smartthings/select.py
+  ai_agent 168-176,366-371
+homeassistant/components/environment_canada/weather.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 241-243
+homeassistant/components/knx/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 138-145,176-183
+homeassistant/components/ohme/icons.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 63-65
+homeassistant/components/nordpool/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 305-306
+homeassistant/components/cielo_home/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 114-115
+tests/components/mqtt/test_config_flow.py
+  ai_agent 5113-5149
+homeassistant/components/onvif/device.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 221-223,337-339
+homeassistant/components/growatt_server/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 91-92,129-130,265-266
+homeassistant/components/infrared/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3,8,11,19-28,32-33,36-38,40,42,45,48-50,59-61,84-102,126,139-145,147-155,157-165,167-173,175
+homeassistant/components/mystrom/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 22-23
+homeassistant/components/recorder/tasks.py
+  ai_agent 178
+homeassistant/components/meteo_france/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/irm_kmi/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 106-109
+homeassistant/loader.py
+  ai_agent 1175-1177,1420,1518,1520
+homeassistant/components/binary_sensor/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 170-171
+homeassistant/components/google_assistant/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2,167
+homeassistant/components/mqtt/models.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 160-164,249-254
+homeassistant/components/matter/discovery.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 147-148
+homeassistant/components/nobo_hub/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 18-23,88,145
+homeassistant/components/conversation/util.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 34-35
+homeassistant/components/ouman_eh_800/icons.json
+  ai_agent 1-9
+homeassistant/components/london_underground/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 43-44
+pylint/plugins/pylint_home_assistant/helpers/module_info.py
+  ai_agent 1-76
+homeassistant/components/roborock/vacuum.py
+  ai_agent 46-47,49,51,65-67
+homeassistant/components/sleepiq/number.py
+  ai_agent 62-64
+homeassistant/components/ouman_eh_800/config_flow.py
+  ai_agent 1-79
+tests/components/raspberry_pi/test_init.py
+  ai_agent 7,115
+homeassistant/components/hassio/issues.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 4,184-185,257-260,359,361,365-374,376-382,387,393,417
+homeassistant/components/nina/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 126-129,141-144
+requirements_test_all.txt
+  ai_agent 83,248,706,1061-1063,1133,1199,1205,1214,1275,1510,1563-1565,2034,2240,2407,2422,2681,2870
+homeassistant/components/bang_olufsen/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 76-77
+tests/components/totalconnect/conftest.py
+  ai_agent 217
+homeassistant/components/smartthings/light.py
+  ai_agent 349
+homeassistant/components/portainer/entity.py
+  ai_agent 62-65,121-124,178-181,201-204,228-232,280-283
+homeassistant/components/govee_ble/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 97-100
+homeassistant/components/pilight/__init__.py
+  ai_agent 101
+tests/components/tts/common.py
+  ai_agent 126-130
+tests/components/water_heater/test_init.py
+  ai_agent 88,94,106,112
+homeassistant/components/smartthings/binary_sensor.py
+  ai_agent 331-334
+homeassistant/components/hardkernel/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3,17-20
+homeassistant/components/hue/migration.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 161-164,207-210
+homeassistant/components/sia/entity.py
+  ai_agent 119
+homeassistant/helpers/llm.py
+  ai_agent 74-102,531-535,544-545,566-567,1131-1133,1144-1148,1220-1222,1224-1234,1244-1248,1323-1324
+pylint/plugins/pylint_home_assistant/const.py
+  ai_agent 1-167
+homeassistant/components/esphome/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 159-160,334-335,536-538
+homeassistant/components/lg_infrared/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 41,59-74
+homeassistant/components/meteo_france/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 240-241,264-266
+homeassistant/components/zerproc/__init__.py
+  ai_agent 2
+homeassistant/components/stream/__init__.py
+  ai_agent 188-191,465-466,497-498,508-510,523-526,564-565
+homeassistant/components/ps4/config_flow.py
+  ai_agent 218-219
+tests/components/comelit/snapshots/test_sensor.ambr
+  ai_agent 49
+tests/components/switchbot/test_light.py
+  ai_agent 20-21,25-28,39,135-154,470-554
+homeassistant/components/konnected/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 28
+homeassistant/components/modbus/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 65-67
+tests/pylint/quality_scale/test_config_entry_unloading.py
+  ai_agent 1-153
+homeassistant/components/subaru/coordinator.py
+  ai_agent 86-87
+homeassistant/components/homewizard/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 676-682,690-696
+homeassistant/strings.json
+  ai_agent 27,29-31,61-62,76,83-86,134-224,231,233
+tests/components/sql/__init__.py
+  ai_agent 331,335,350
+homeassistant/components/voip/select.py
+  ai_agent 28
+homeassistant/components/open_router/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 26-27
+homeassistant/components/openai_conversation/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 289-290
+homeassistant/components/recorder/queries.py
+  ai_agent 424-425
+homeassistant/components/baf/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 43-44
+homeassistant/components/insteon/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 62
+homeassistant/components/comelit/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 95
+homeassistant/components/obihai/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 46-47
+homeassistant/components/prana/fan.py
+  ai_agent 109-110
+homeassistant/components/group/lock.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 145-146
+homeassistant/components/reolink/coordinator.py
+  ai_agent 153,171-172
+homeassistant/components/roborock/select.py
+  ai_agent 70,90,329
+homeassistant/components/sinch/notify.py
+  ai_agent 92
+homeassistant/components/switchbot/__init__.py
+  ai_agent 117,124,131,138,201-203,208-210,214-216
+homeassistant/components/weatherflow_cloud/icons.json
+  ai_agent 22-24,94-96,100-104
+homeassistant/components/fritzbox/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 44
+homeassistant/components/overkiz/cover.py
+  ai_agent 63-64,121-122,136-137,577-585,682
+homeassistant/components/knx/fan.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 63-64,84-85
+pyproject.toml
+  ai_agent 64,77,121,179-181,441,658-659,661,664-667,670,673-675,680-684,686-687,689,692,699,743-746,751,755
+tests/components/deako/snapshots/test_light.ambr
+  ai_agent 165-166,178
+tests/components/fitbit/snapshots/test_sensor.ambr
+  ai_agent 50-91,98-104,106-147,149-317,322-328,330-371,373-549,552,554-560,562-662,665-666,670-676,678-722,725-726,730-736,738-782,784-785,787-788,790-796,798-804,807-838,840-842,844-846,848,850-856,858-864,867-898,900-902,904-908,910-916,918-959,961-962,964,966-972,974-1015,1017,1020,1022-1028,1030-1036,1039-1070,1072-1074,1082-1088,1090-1134,1142-1148,1150-1194,1202-1208,1210-1249,1254-1260,1262-1306,1314-1320,1322-1363,1365-1421,1426-1432,1434-1475,1477-1478,1480,1482-1488,1490-1534,1542-1548,1550-1594,1597,1602-1608,1610-1651,1653,1658-1664,1666-1710,1712-1716,1718-1724,1726-1770,1773,1775,1778-2076
+homeassistant/components/zha/update.py
+  ai_agent 76
+homeassistant/helpers/template/context.py
+  ai_agent 20
+AGENTS.md
+  s_62c17910b6496b::t_4fc8bd6e1d937b 9-13,26-27,32-33
+homeassistant/components/ezviz/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 97-99
+homeassistant/components/guntamatic/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-18
+homeassistant/components/opentherm_gw/__init__.py
+  ai_agent 202-205
+homeassistant/components/sma/config_flow.py
+  ai_agent 258-259
+homeassistant/components/homeassistant/triggers/time.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 71-72,261-264
+tests/pylint/test_unused_test_fixture_args.py
+  ai_agent 1-163
+homeassistant/components/numato/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 89,106
+homeassistant/components/esphome/update.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 76-77
+homeassistant/components/scrape/coordinator.py
+  ai_agent 62-63,80-81
+homeassistant/components/command_line/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 160-161
+homeassistant/components/bsblan/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 104-105,370-371
+homeassistant/components/isy994/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 158
+homeassistant/components/jvc_projector/util.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 96-98
+homeassistant/components/nest/api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 30
+homeassistant/components/victron_gx/strings.json
+  ai_agent 227-231
+tests/components/deako/test_light.py
+  ai_agent 30-32
+homeassistant/components/generic/camera.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 138
+homeassistant/components/homematicip_cloud/hap.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 184-187,227-228,289,291-292
+homeassistant/components/amberelectric/helpers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 17-20
+pylint/plugins/pylint_home_assistant/helpers/quality_scale.py
+  ai_agent 1-67
+homeassistant/components/huawei_lte/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 370-371,384-385
+homeassistant/components/google_air_quality/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 237-241
+homeassistant/components/homekit_controller/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 162-163,167-168,252,267,269-271,305,307-309,325-329
+homeassistant/components/hunterdouglas_powerview/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 139
+homeassistant/components/prometheus/__init__.py
+  ai_agent 45-46,351-354,496,560,757,908,1065-1068
+homeassistant/components/airnow/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 78-80
+homeassistant/components/fitbit/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 55-58
+homeassistant/components/homematicip_cloud/helpers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 47-49
+homeassistant/components/hue/v2/group.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 82
+homeassistant/components/mysensors/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 99-100
+homeassistant/components/devolo_home_network/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 43-47
+homeassistant/components/lovelace/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 130,397-398
+homeassistant/components/pooldose/config_flow.py
+  ai_agent 123-126,160-161,171-172
+homeassistant/components/cookidoo/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 84,97-98
+homeassistant/components/zha/sensor.py
+  ai_agent 97
+homeassistant/components/command_line/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 166-167
+homeassistant/components/kitchen_sink/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 9,13-19
+homeassistant/components/broadlink/device.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 137
+tests/components/comelit/snapshots/test_diagnostics.ambr
+  ai_agent 118,184
+homeassistant/components/ssdp/scanner.py
+  ai_agent 391-392
+homeassistant/components/permobil/sensor.py
+  ai_agent 149-150,159-160
+tests/components/cambridge_audio/test_number.py
+  ai_agent 13,56-101
+homeassistant/components/reolink/entity.py
+  ai_agent 51-52,155,163,168-172
+homeassistant/components/hassio/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 55-57,209-218
+homeassistant/components/ridwell/calendar.py
+  ai_agent 52-53
+homeassistant/components/steamist/sensor.py
+  ai_agent 63
+homeassistant/components/modern_forms/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 65,71,98,104
+homeassistant/components/motionmount/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 114-115
+homeassistant/components/proxmoxve/entity.py
+  ai_agent 58-62,106-110,160-163,216-219
+homeassistant/components/playstation_network/notify.py
+  ai_agent 175
+homeassistant/components/minecraft_server/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 41-42
+homeassistant/components/nobo_hub/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 8-9,18-19
+homeassistant/components/bluetooth/passive_update_coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 91,93
+homeassistant/components/nobo_hub/quality_scale.yaml
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-91
+homeassistant/components/esphome/alarm_control_panel.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 40-45
+homeassistant/components/centriconnect/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 24-27
+pylint/plugins/pylint_home_assistant/helpers/__init__.py
+  ai_agent 1
+homeassistant/components/backblaze_b2/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 44-45
+homeassistant/components/ecobee/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 287,295,303,311,470,895-896
+homeassistant/components/dropbox/application_credentials.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 28-31
+homeassistant/components/owntracks/__init__.py
+  ai_agent 2
+homeassistant/components/hue/v2/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 55-56,63-64,69-72,122,138,156,185,187,210,236
+homeassistant/components/fritz/button.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 191-196,200-205
+homeassistant/components/doorbird/camera.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 97
+homeassistant/components/ecovacs/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 177-178
+homeassistant/components/iperf3/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 39
+homeassistant/components/bluetooth_le_tracker/device_tracker.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 165-168
+homeassistant/components/overkiz/climate/__init__.py
+  ai_agent 49-51,64-66,69-74,78-79
+homeassistant/components/plaato/config_flow.py
+  ai_agent 62-63,214
+homeassistant/components/risco/const.py
+  ai_agent 27
+homeassistant/components/overkiz/button.py
+  ai_agent 38-39,53-54
+homeassistant/components/horizon/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 152
+homeassistant/components/romy/config_flow.py
+  ai_agent 109-111
+homeassistant/components/satel_integra/strings.json
+  ai_agent 156-158,161-162,170,175,183,189
+homeassistant/components/hue/v1/sensor_device.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 9
+homeassistant/components/islamic_prayer_times/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 96-99,101-102,118-129
+homeassistant/components/prusalink/quality_scale.yaml
+  ai_agent 1-168
+homeassistant/components/input_button/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 126
+homeassistant/components/proximity/coordinator.py
+  ai_agent 174-175,222-223
+homeassistant/components/sonarr/const.py
+  ai_agent 12
+homeassistant/components/squeezebox/media_player.py
+  ai_agent 137-138,766-767,802-803
+homeassistant/components/rainforest_eagle/sensor.py
+  ai_agent 78-82
+homeassistant/components/switcher_kis/__init__.py
+  ai_agent 49-50
+homeassistant/components/template/__init__.py
+  ai_agent 80
+homeassistant/components/lcn/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 116-118
+homeassistant/components/solarlog/coordinator.py
+  ai_agent 77-78,262-264
+homeassistant/components/smlight/update.py
+  ai_agent 244
+homeassistant/components/vodafone_station/coordinator.py
+  ai_agent 10,36,65-66,81,152-155,210-221
+homeassistant/components/voip/__init__.py
+  ai_agent 75
+homeassistant/helpers/system_info.py
+  ai_agent 97-99,103-107
+tests/components/androidtv/test_config_flow.py
+  ai_agent 25,69-84,104,106-111,116-117,123,137,143,150-154,167-168,174,181-190,193-194,208,219-222,225-226,240,250,252-257,262,274,326,331,341,354
+homeassistant/components/sunricher_dali/manifest.json
+  ai_agent 15
+homeassistant/components/broadlink/time.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 24
+homeassistant/components/music_assistant/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 80
+homeassistant/components/satel_integra/const.py
+  ai_agent 21-22
+homeassistant/components/egauge/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 79-81
+homeassistant/components/schluter/climate.py
+  ai_agent 138
+tests/components/duco/snapshots/test_diagnostics.ambr
+  ai_agent 12-13,23-24,39-40,52-53,56,58-59,64-65,72-73,87-88,91,93-94,99-100,107-108,122-123,126,128-129,134-135,142-143,157-158,161,163-164,169-170,177-178
+homeassistant/components/azure_data_explorer/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 75-79,82
+homeassistant/components/lutron_caseta/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 171-172
+tests/components/lg_infrared/snapshots/test_event.ambr
+  ai_agent 1-161
+tests/components/websocket_api/test_commands.py
+  ai_agent 11,2800-2900
+homeassistant/components/lacrosse_view/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 10
+tests/conftest.py
+  ai_agent 63,70,232-234
+homeassistant/components/habitica/util.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 193-196
+tests/components/scrape/test_config_flow.py
+  ai_agent 6,9
+homeassistant/components/iskra/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 60-61,186-187
+homeassistant/components/private_ble_device/coordinator.py
+  ai_agent 27-28,46,48-49,51-53,97-98,247
+homeassistant/components/rocketchat/notify.py
+  ai_agent 55-56
+homeassistant/components/mqtt/client.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 316-320
+homeassistant/components/omnilogic/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 92
+homeassistant/components/met/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2,56-57
+homeassistant/components/atag/water_heater.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 57
+homeassistant/components/isy994/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 152,163
+homeassistant/components/screenlogic/__init__.py
+  ai_agent 148-149,164-165
+homeassistant/components/anova/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 46-47
+homeassistant/components/homekit/type_switches.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 352-358
+homeassistant/components/shelly/entity.py
+  ai_agent 376,431
+tests/components/backblaze_b2/test_backup.py
+  ai_agent 112
+homeassistant/components/cloud/account_link.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 131-134
+tests/components/lg_infrared/test_event.py
+  ai_agent 1-148
+tests/pylint/test_imports.py
+  ai_agent 65,71,77,83,89,95,101,107,113,248,308,354
+tests/testing_config/custom_components/test/light.py
+  ai_agent 101
+homeassistant/components/pushover/config_flow.py
+  ai_agent 17-18
+homeassistant/components/sonarr/strings.json
+  ai_agent 21-29
+homeassistant/components/raspyrfm/switch.py
+  ai_agent 10-11,32
+homeassistant/components/jvc_projector/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 84-85
+homeassistant/components/sonarr/helpers.py
+  ai_agent 49-50,201-202,249-251,348-350
+homeassistant/components/google_generative_ai_conversation/helpers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 62-63
+homeassistant/components/heos/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 45-48,63-66,274-276
+homeassistant/components/nzbget/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 9
+homeassistant/components/knx/storage/entity_store_schema.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 482-483,687
+homeassistant/components/ouman_eh_800/__init__.py
+  ai_agent 1,3-4,6-10,13-15,17-18,20,22,24,27-29
+homeassistant/components/rfxtrx/entity.py
+  ai_agent 53-54,122
+homeassistant/components/spotify/coordinator.py
+  ai_agent 124-126
+homeassistant/components/bosch_alarm/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 188
+homeassistant/components/recorder/auto_repairs/schema.py
+  ai_agent 88-91,229-230
+homeassistant/components/flux_led/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 193-194
+homeassistant/components/hue/v1/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 316
+homeassistant/components/nfandroidtv/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 106
+homeassistant/components/thread/__init__.py
+  ai_agent 38
+homeassistant/components/unifi/strings.json
+  ai_agent 167,171,174,176,178-202
+homeassistant/components/waze_travel_time/config_flow.py
+  ai_agent 104-105
+homeassistant/components/voip/binary_sensor.py
+  ai_agent 29
+homeassistant/config_entries.py
+  ai_agent 563-568,670-672,712-713,902-904,1912-1914,2329-2330,2357-2360,2617-2618,3014-3016,3224-3226,3420-3421,3632-3633,3725-3726,3887-3888
+pylint/plugins/README.md
+  ai_agent 1-342
+homeassistant/components/workday/config_flow.py
+  ai_agent 244-245
+homeassistant/components/api/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 409-410
+homeassistant/components/sky_remote/remote.py
+  ai_agent 67
+homeassistant/helpers/translation.py
+  ai_agent 284-285,468,504
+homeassistant/components/egardia/alarm_control_panel.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 135,146,157
+homeassistant/components/discogs/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 133-134
+homeassistant/components/schedule/__init__.py
+  ai_agent 71-72,273-274
+homeassistant/components/ollama/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 399,421-422
+pylint/plugins/pylint_home_assistant/checkers/__init__.py
+  ai_agent 1
+.github/workflows/builder.yml
+  s_62c17910b6496b::t_4fc8bd6e1d937b 341
+pylint/plugins/pylint_home_assistant/checkers/actions/helpers.py
+  ai_agent 1-79
+homeassistant/components/amcrest/camera.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 464-465,483-484
+homeassistant/components/homeassistant_hardware/util.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 19,304-308
+homeassistant/components/eurotronic_cometblue/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 121-122
+homeassistant/components/monarch_money/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 69-73
+homeassistant/components/overkiz/climate/atlantic_pass_apc_heat_pump_main_component.py
+  ai_agent 30-36,64-65
+homeassistant/components/solaredge/config_flow.py
+  ai_agent 162-163
+homeassistant/util/color.py
+  ai_agent 411,491-492
+tests/components/pyload/test_config_flow.py
+  ai_agent 18,20,22,28,33,44,49,53,60-61,70,80,89,94,121-128,132-133,146,151,159,164-170,177-178,192,201,208,212-216,220,233,238,246,251-254,261,275,284,291
+homeassistant/components/dynalite/schema.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 93
+homeassistant/components/local_file/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 45-46
+homeassistant/components/meteo_france/weather.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 53-54,104-105,200-201
+homeassistant/components/light/condition.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 29
+homeassistant/components/energyid/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 133-134,240-241
+homeassistant/components/meteo_lt/weather.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 130-131
+homeassistant/components/data_grand_lyon/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3,6-14,21-29,34-42,63-64,68-69,72-73,75-108,112-132,135,137
+homeassistant/components/monarch_money/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 57-58,72-73
+homeassistant/components/mvglive/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 166
+homeassistant/components/elevenlabs/tts.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 297-299,311-312
+homeassistant/components/letpot/time.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 85-89
+homeassistant/components/rainmachine/__init__.py
+  ai_agent 459
+homeassistant/components/coolmaster/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 71-72
+tests/components/infrared/__init__.py
+  ai_agent 3-4
+homeassistant/components/homeassistant_connect_zbt2/update.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 177-180
+homeassistant/components/generic/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 348-349,433-434,585-588
+homeassistant/components/lookin/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 73
+tests/components/openai_conversation/test_init.py
+  ai_agent 1179
+homeassistant/components/lamarzocco/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 119-121,226-228
+homeassistant/components/homematicip_cloud/weather.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 38-40
+homeassistant/components/webostv/media_player.py
+  ai_agent 365
+tests/components/cambridge_audio/test_media_player.py
+  ai_agent 65
+homeassistant/components/jellyfin/media_source.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 89-90
+homeassistant/components/drop_connect/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 57-59
+homeassistant/components/govee_ble/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 30-33
+homeassistant/components/homekit_controller/event.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 51-53
+homeassistant/components/homematicip_cloud/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 609
+homeassistant/components/cloud/alexa_config.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 233-234
+homeassistant/components/huawei_lte/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 815,819-820
+homeassistant/components/nobo_hub/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 72
+homeassistant/components/rest_command/__init__.py
+  ai_agent 203-206
+homeassistant/components/sonos/household_coordinator.py
+  ai_agent 84-87
+homeassistant/components/songpal/media_player.py
+  ai_agent 346-347
+homeassistant/helpers/icon.py
+  ai_agent 173,179
+homeassistant/components/google_assistant/trait.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 304,1640-1642
+homeassistant/util/__init__.py
+  ai_agent 103-104
+homeassistant/components/amberelectric/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 51
+homeassistant/components/kitchen_sink/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 58
+homeassistant/components/aemet/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 62-63
+homeassistant/components/eheimdigital/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 73
+homeassistant/components/lcn/helpers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 205
+tests/components/data_grand_lyon/snapshots/test_binary_sensor.ambr
+  ai_agent 1-51
+tests/components/fritz/const.py
+  ai_agent 993-1002,1009
+homeassistant/components/konnected/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+tests/components/risco/test_config_flow.py
+  ai_agent 13-17,365,387-388,394-395,404,408,410-414,456
+homeassistant/components/homeassistant_hardware/firmware_config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 282-283
+homeassistant/components/huawei_lte/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 63
+tests/components/conversation/test_default_agent.py
+  ai_agent 36
+homeassistant/components/daikin/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 176-179
+homeassistant/components/data_grand_lyon/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 9,13
+homeassistant/components/recollect_waste/coordinator.py
+  ai_agent 55
+homeassistant/components/guntamatic/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-6
+homeassistant/components/homeassistant_sky_connect/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 20,128,152,179-181
+homeassistant/components/recollect_waste/sensor.py
+  ai_agent 73
+homeassistant/components/nuki/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 100-101
+homeassistant/components/upcloud/config_flow.py
+  ai_agent 109
+homeassistant/components/epson/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 26-27
+homeassistant/components/wyoming/manifest.json
+  ai_agent 16
+homeassistant/components/husqvarna_automower/event.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 107
+homeassistant/components/rest/data.py
+  ai_agent 112-113,119-124,165-167
+pylint/plugins/pylint_home_assistant/checkers/actions/__init__.py
+  ai_agent 1
+tests/components/lg_infrared/test_button.py
+  ai_agent 15,50,84,96-97
+tests/components/solaredge/fixtures/storage_data.json
+  ai_agent 1-25
+tests/components/victron_ble/test_config_flow.py
+  ai_agent 40-41,48-50,68-69,76-78,85-86,122-123,136-137,143-144,150-152,159-160,173-174,182-183,196-197,210-211,221-222,229-230
+tests/components/victron_gx/snapshots/test_button.ambr
+  ai_agent 1-51
+homeassistant/components/elmax/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 140,145-146,157-158,292-293,313-314,326-328,417-418,472-474,478-485,502-503
+tests/components/victron_gx/test_button.py
+  ai_agent 1-70
+homeassistant/components/frontier_silicon/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 448-449
+homeassistant/components/homeassistant_yellow/update.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 189-192
+homeassistant/components/ecobee/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 54
+homeassistant/components/mochad/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 121,139
+homeassistant/components/reolink/media_source.py
+  ai_agent 208-209,246,443-447
+homeassistant/components/smhi/__init__.py
+  ai_agent 26-29
+homeassistant/components/ntfy/event.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 126-127,147-148
+homeassistant/components/pushbullet/sensor.py
+  ai_agent 118-119
+homeassistant/components/starline/sensor.py
+  ai_agent 63-64
+tests/components/sonarr/__init__.py
+  ai_agent 3,11
+homeassistant/components/roon/media_browser.py
+  ai_agent 106-107
+homeassistant/components/lg_soundbar/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 42-44,169-173
+homeassistant/components/airq/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 57-58
+homeassistant/components/rpi_power/binary_sensor.py
+  ai_agent 1
+tests/ruff.toml
+  ai_agent 10-11
+homeassistant/components/music_assistant/media_browser.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 550-551
+tests/components/lacrosse_view/test_sensor.py
+  ai_agent 3,7,11,26,32,206,284-355
+homeassistant/components/autarco/diagnostics.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 23-32,50-58
+homeassistant/components/google_assistant/http.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 141,326-327
+homeassistant/components/androidtv/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 6
+homeassistant/components/novy_cooker_hood/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 10
+homeassistant/components/onedrive/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 14-15
+homeassistant/components/logbook/queries/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 48-49
+tests/components/satel_integra/test_init.py
+  ai_agent 15-18,20-29,32,165-207
+homeassistant/components/electric_kiwi/api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 21-22
+homeassistant/components/homeassistant_connect_zbt2/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 11,18,98-169
+homeassistant/components/onvif/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 80-88
+homeassistant/components/elmax/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 27-28
+homeassistant/components/ouman_eh_800/manifest.json
+  ai_agent 1-11
+homeassistant/components/devolo_home_network/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 85
+homeassistant/components/novy_cooker_hood/quality_scale.yaml
+  s_62c17910b6496b::t_4fc8bd6e1d937b 39-40,65-70,88-93
+homeassistant/components/irm_kmi/weather.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 122-123
+homeassistant/components/rituals_perfume_genie/__init__.py
+  ai_agent 32-33
+homeassistant/components/mystrom/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 54,62
+homeassistant/components/hassio/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 5,23-24,150-152,170
+homeassistant/components/knx/dpt.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 142-147
+homeassistant/components/recollect_waste/calendar.py
+  ai_agent 71
+homeassistant/components/netatmo/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/sonos/media_browser.py
+  ai_agent 49,51-53,113-114,627-630
+homeassistant/components/guntamatic/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-42
+homeassistant/components/trafikverket_ferry/coordinator.py
+  ai_agent 37
+homeassistant/components/victron_gx/entity.py
+  ai_agent 14,16
+homeassistant/components/kiosker/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 48-49
+homeassistant/helpers/entity_registry.py
+  ai_agent 862-863,898-901,1085-1086,1176-1178,1206-1208,1283-1285,1609-1610
+homeassistant/components/mealie/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 25,140-141
+homeassistant/components/epion/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 100-104,114-118
+homeassistant/components/group/util.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 35
+homeassistant/components/hassio/update.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 152-153,405-406
+homeassistant/components/msteams/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 73
+homeassistant/components/nest/media_source.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 285-298
+homeassistant/components/hue/v2/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 72-73,76-78,129,155,178,232,256,278
+homeassistant/components/xeoma/camera.py
+  ai_agent 134
+homeassistant/runner.py
+  ai_agent 93-94,148-149
+homeassistant/components/ffmpeg/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 143
+tests/components/arcam_fmj/test_media_player.py
+  ai_agent 20,27,40,192,195,199,209-231,263-284,309-347,445-451
+homeassistant/components/homeassistant_sky_connect/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 16,126-129,132-136,203-245
+tests/components/data_grand_lyon/snapshots/test_diagnostics.ambr
+  ai_agent 35-81,83-88,91-123
+homeassistant/components/homeassistant_green/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3,17-20
+tests/components/data_grand_lyon/test_config_flow.py
+  ai_agent 12,16,325-374
+homeassistant/components/apcupsd/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 11-12
+homeassistant/components/google_assistant/button.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 23
+homeassistant/components/hassio/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 5,9,20,35-36,70-72,96,113,178-230,247-248,255-256,259,268,274-277,279-284,286-289,292-318,320-321,323-353,377,379,381-387,389-393,396-397,399-401,403-405,409-414,419-422,433
+homeassistant/components/infrared/icons.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 5-7
+homeassistant/components/motion_blinds/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 136-137,149
+homeassistant/components/saj/sensor.py
+  ai_agent 126
+homeassistant/components/nasweb/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 116-117
+tests/components/forked_daapd/test_browse_media.py
+  ai_agent 13
+homeassistant/components/lovelace/cast.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 9
+homeassistant/package_constraints.txt
+  ai_agent 42,50,73
+tests/components/guntamatic/test_config_flow.py
+  ai_agent 1-182
+tests/components/ouman_eh_800/test_sensor.py
+  ai_agent 1-25
+homeassistant/components/smartthings/climate.py
+  ai_agent 437-439
+tests/components/raspberry_pi/test_hardware.py
+  ai_agent 7,68,104-133
+homeassistant/components/bang_olufsen/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 154-159,172
+homeassistant/components/github/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 146-147
+homeassistant/components/anthropic/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 455-456,471-472,651-652,983-984,1166-1167
+tests/components/solaredge/__init__.py
+  ai_agent 2-14
+tests/components/satel_integra/__init__.py
+  ai_agent 11,58-71
+tests/components/lacrosse_view/__init__.py
+  ai_agent 28-42
+homeassistant/components/ibeacon/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 23-25
+homeassistant/components/indevolt/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 20,43,80-81
+homeassistant/components/matter/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 35-37,46,76
+homeassistant/helpers/script_variables.py
+  ai_agent 94-99,102-106,114-121,134-135,213-215,217-218
+tests/components/sensibo/test_entity.py
+  ai_agent 32-33,35-36
+tests/components/solaredge/fixtures/energy_details.json
+  ai_agent 1-28
+tests/components/sonarr/test_config_flow.py
+  ai_agent 8,180,185,187,195-198
+tests/components/voip/test_voip.py
+  ai_agent 17
+tests/components/mealie/test_services.py
+  ai_agent 59
+homeassistant/components/eurotronic_cometblue/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 130-131,138-139
+homeassistant/components/zerproc/light.py
+  ai_agent 2,154
+homeassistant/components/cloud/google_config.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 13,174,229-230
+tests/pylint/actions/test_service_registration.py
+  ai_agent 1-226
+homeassistant/components/sharkiq/config_flow.py
+  ai_agent 74-76
+homeassistant/components/ohme/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 71-78
+homeassistant/components/modern_forms/fan.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 111,117,126,143,149,158
+homeassistant/components/pglab/discovery.py
+  ai_agent 118-121,152-153,208-211,214-215,243-244,248-249,253-254
+homeassistant/components/cync/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 54
+homeassistant/components/data_grand_lyon/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-55
+homeassistant/components/xiaomi_miio/light.py
+  ai_agent 246
+homeassistant/components/apple_tv/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 303-306
+tests/helpers/test_system_info.py
+  ai_agent 36
+tests/pylint/test_determinism.py
+  ai_agent 1-250
+homeassistant/components/homekit/type_lights.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 116-119
+tests/components/lg_thinq/fixtures/kimchi_refrigerator/energy_profile.json
+  ai_agent 1-6
+homeassistant/components/splunk/config_flow.py
+  ai_agent 2
+homeassistant/components/dynalite/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 18
+homeassistant/components/picnic/coordinator.py
+  ai_agent 68-71,121-122,132-133,145-146
+tests/components/history/test_websocket_api.py
+  ai_agent 2106
+homeassistant/components/shopping_list/__init__.py
+  ai_agent 103,114,125,150,154,158,162,169,176,183,190
+homeassistant/components/group/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-4,405-406,446-447,449-453,518-519,574-575,631-632,645-646
+homeassistant/components/hassio/repairs.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 11-15,28,128-131,237-238
+homeassistant/components/homekit_controller/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 147-154,156-163,165-172,174-181,218-225,374-382,522,529
+homeassistant/components/lg_infrared/event.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-179
+homeassistant/components/opendisplay/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 52,180
+homeassistant/components/valve/__init__.py
+  ai_agent 26-37
+homeassistant/components/apcupsd/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 30,48-50,89-93
+homeassistant/components/homeassistant_hardware/update.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 74-75
+homeassistant/components/directv/remote.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 93
+homeassistant/components/overkiz/water_heater/atlantic_domestic_hot_water_production_v2_io_component.py
+  ai_agent 210-212,284-285
+homeassistant/components/eheimdigital/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 38
+homeassistant/components/mobile_app/webhook.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2,692-694
+pylint/plugins/pylint_home_assistant/checkers/type_hints/validators.py
+  ai_agent 1-33,36-71,73-99,101-109,111-117,119-165,167-185,187,190-196,200-210,213-220,222-226,229-233
+homeassistant/components/conversation/http.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 185
+tests/util/test_unit_system.py
+  ai_agent 28
+homeassistant/components/huawei_lte/device_tracker.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 118-119,213-214
+homeassistant/components/habitica/image.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 97-100
+homeassistant/components/switchbot/button.py
+  ai_agent 95,122-123
+homeassistant/components/dwd_weather_warnings/util.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 33-34
+tests/components/kitchen_sink/test_infrared.py
+  ai_agent 3,9-12,14,19-20,40,43-45,52-53,55,58-61
+homeassistant/components/music_assistant/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 51-60,85
+homeassistant/components/met_eireann/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 34-35
+homeassistant/components/modbus/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 572-575
+homeassistant/components/novy_cooker_hood/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 5-6,13,17,39,43
+tests/components/kitchen_sink/test_config_flow.py
+  ai_agent 17-18,231-232,242-245,254-257,269
+homeassistant/components/matter/event.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 82-83
+homeassistant/components/motion_blinds/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/cambridge_audio/icons.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 6-8
+homeassistant/components/fressnapf_tracker/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 60
+homeassistant/helpers/template/extensions/base.py
+  ai_agent 80-81,111
+homeassistant/components/cielo_home/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 54-56
+homeassistant/components/homeassistant_yellow/hardware.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 19
+homeassistant/bootstrap.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 20-21,169-176
+homeassistant/components/bring/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 129-133
+homeassistant/components/mysensors/gateway.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 286
+homeassistant/components/medcom_ble/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 70-71,126-128
+homeassistant/components/letpot/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 115-119
+homeassistant/components/netatmo/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/risco/config_flow.py
+  ai_agent 22,31,222-223,232-249,258-259
+homeassistant/components/srp_energy/config_flow.py
+  ai_agent 89-90
+pylint/plugins/pylint_home_assistant/checkers/config_flow/no_name.py
+  ai_agent 1-77
+homeassistant/components/eheimdigital/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 174
+homeassistant/components/google_weather/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 73-74,100-101
+tests/components/homeassistant_sky_connect/test_init.py
+  ai_agent 22-26,69-70,86-289,494-495,503-506
+homeassistant/components/fing/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 51-53,62-63
+homeassistant/components/linkplay/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/coinbase/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 303
+homeassistant/components/hassio/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 73,184,190-192,196,202-204,208,214-216,220,227,239,245-247,251,260,278,284-286,323,329-331,335,341-343,798,858,944-946
+homeassistant/components/nest/device_info.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 91
+homeassistant/components/satel_integra/config_flow.py
+  ai_agent 2,31,91-99,103-126,136,315-317,344-347,379-387,398-407,415,418-443,447,449,502-505,530-533,541-544,571-574
+homeassistant/components/image/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 210,482-484
+homeassistant/components/search/__init__.py
+  ai_agent 138-139
+homeassistant/util/timeout.py
+  ai_agent 246-247
+pylint/plugins/pylint_home_assistant/checkers/actions/swallowed_exceptions.py
+  ai_agent 1-249
+homeassistant/components/hue/v2/hue_event.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 52-53,82-84
+homeassistant/components/epion/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 37
+homeassistant/components/cookidoo/todo.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 76-79,105
+homeassistant/components/heos/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3-7,116-118,130-132,177,197-198,278,285-288
+homeassistant/components/plugwise/coordinator.py
+  ai_agent 140-143
+homeassistant/components/fing/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 72-73
+homeassistant/components/imgw_pib/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 10
+homeassistant/components/august/lock.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 132-135
+homeassistant/components/mysensors/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/irm_kmi/data.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 12
+homeassistant/components/growatt_server/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 107-108,110-116,125-126,154-155,182-183,387-388,405-406
+homeassistant/components/soundtouch/media_player.py
+  ai_agent 396
+homeassistant/components/tomorrowio/__init__.py
+  ai_agent 2
+homeassistant/components/ekeybionyx/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 27-29,88
+homeassistant/components/imap/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 307-308,340-341,359-361
+homeassistant/components/matter/vacuum.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 214-215
+homeassistant/components/livisi/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 49-50
+homeassistant/components/velbus/services.py
+  ai_agent 103
+homeassistant/components/yamaha_musiccast/media_player.py
+  ai_agent 374,750
+homeassistant/components/anthropic/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 37
+homeassistant/components/google_travel_time/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 60-62
+homeassistant/helpers/config_validation.py
+  ai_agent 1081-1082,1415,1844-1845,1870
+homeassistant/helpers/selector.py
+  ai_agent 58-63,304-308,1708-1712
+homeassistant/components/dlna_dmr/data.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/bluesound/utils.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 27-30
+homeassistant/components/androidtv/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 284,293
+homeassistant/components/rss_feed_template/__init__.py
+  ai_agent 82-83
+homeassistant/components/lightwave/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 64-65
+script/hassfest/quality_scale.py
+  ai_agent 38,58,64-65,69
+homeassistant/components/apple_tv/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 466-467
+homeassistant/components/go2rtc/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 77,86-87,367-368,412-413
+homeassistant/components/sftp_storage/__init__.py
+  ai_agent 92-93,107-109,123-124
+homeassistant/components/lamarzocco/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 146-147
+homeassistant/components/automation/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1158
+homeassistant/components/irm_kmi/utils.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 10-13
+homeassistant/components/lg_infrared/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 27-29
+homeassistant/components/nzbget/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 18-26
+homeassistant/components/alarmdecoder/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 357-359
+homeassistant/components/bayesian/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2,237-238,274,294,342-345,355-358,554-557,566-569,578-581,590-593
+homeassistant/components/smarttub/binary_sensor.py
+  ai_agent 96-99
+homeassistant/components/lovelace/websocket.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 46-47
+homeassistant/components/tankerkoenig/config_flow.py
+  ai_agent 170-171
+homeassistant/components/tomorrowio/weather.py
+  ai_agent 71
+homeassistant/components/unifi/const.py
+  ai_agent 36
+homeassistant/components/freebox/camera.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 8
+homeassistant/components/onkyo/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 144-145,397-398,418-420
+homeassistant/components/homekit_controller/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 27-33
+homeassistant/components/modbus/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 194
+homeassistant/components/derivative/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 66-67
+homeassistant/components/number/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 152-153,203-205,211-213,221-224,226-228,446-448,454-455,459-461
+homeassistant/components/tractive/device_tracker.py
+  ai_agent 81
+homeassistant/components/vlc_telnet/media_player.py
+  ai_agent 186,192,205,216,228,239,246,267,273,279,285
+homeassistant/components/hyperion/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 47-50,72-74,189-190,268-269
+homeassistant/components/mullvad/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 6,11,16,23,25
+homeassistant/components/onedrive/backup.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 192-193
+homeassistant/components/yeelight/light.py
+  ai_agent 598
+homeassistant/components/minecraft_server/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 31-34,36-38
+homeassistant/components/ouman_eh_800/strings.json
+  ai_agent 1-54
+homeassistant/components/command_line/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 69
+homeassistant/components/homeassistant_sky_connect/update.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 198-201
+pylint/plugins/pylint_home_assistant/checkers/type_hints/models.py
+  ai_agent 1-53
+pylint/plugins/pylint_home_assistant/checkers/quality_scale/diagnostics.py
+  ai_agent 1-67
+homeassistant/components/dynalite/bridge.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 67-69,107-110
+homeassistant/components/rainmachine/config_flow.py
+  ai_agent 106
+homeassistant/components/brunt/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 57-58,64-68
+homeassistant/components/data_grand_lyon/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 8,22-29,53-58,73,166,208-235
+homeassistant/components/profiler/__init__.py
+  ai_agent 89,288,299,310,325,333,351,359,368,376,384,392,400,409
+tests/components/lg_thinq/test_switch.py
+  ai_agent 5,17-20
+homeassistant/components/frontier_silicon/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 132-133,159-162
+tests/components/logger/test_init.py
+  ai_agent 27
+homeassistant/components/blue_current/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 30-34,40-43
+homeassistant/components/goodwe/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 51-60,251-252
+homeassistant/components/bayesian/issues.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 13,30-31,33
+homeassistant/components/cloudflare_r2/backup.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 243-246
+homeassistant/components/dlna_dmr/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 608,622,630,637,644,651,659,728,735,756,796,823
+homeassistant/components/google_generative_ai_conversation/stt.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 219-222
+homeassistant/components/devolo_home_control/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 32
+tests/components/hardkernel/test_hardware.py
+  ai_agent 8,67,102-130
+tests/components/esphome/test_assist_satellite.py
+  ai_agent 32,41,2293-2427
+tests/components/nzbget/__init__.py
+  ai_agent 5,39
+homeassistant/components/lightwave/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 96-98
+homeassistant/components/xiaomi_miio/vacuum.py
+  ai_agent 201
+homeassistant/components/influxdb/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 293-295
+homeassistant/components/earn_e_p1/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/nasweb/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 155-156
+homeassistant/components/geniushub/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 78
+homeassistant/components/recorder/table_managers/state_attributes.py
+  ai_agent 100,128
+homeassistant/components/melnor/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 90-91
+homeassistant/components/switchbot/strings.json
+  ai_agent 212-214
+tests/components/assist_pipeline/snapshots/test_init.ambr
+  ai_agent 20-24,127-131,234-238,365-369,472-476
+homeassistant/components/amberelectric/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 24-25
+tests/components/satel_integra/test_diagnostics.py
+  ai_agent 5,17-23,29-30,33-34,36
+homeassistant/components/mailgun/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 46,114
+homeassistant/components/switchbot/const.py
+  ai_agent 185-187
+homeassistant/components/home_connect/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 541-542,681-682
+homeassistant/components/rest/__init__.py
+  ai_agent 78
+homeassistant/components/solarlog/entity.py
+  ai_agent 53-54
+homeassistant/components/broadlink/infrared.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 8,41,46-47
+homeassistant/helpers/template/extensions/math.py
+  ai_agent 170-173,212-214,242-244,272-274,409-410,446-447,492-494
+tests/components/guntamatic/snapshots/test_sensor.ambr
+  ai_agent 1-241
+tests/components/ouman_eh_800/snapshots/test_sensor.ambr
+  ai_agent 1-2258
+tests/components/satel_integra/conftest.py
+  ai_agent 20,67-68,105,117-124
+homeassistant/components/irm_kmi/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 49-50
+homeassistant/components/devolo_home_control/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 120-122
+homeassistant/components/iskra/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 50-51,55-56
+homeassistant/components/lookin/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 126-127,146-147
+homeassistant/components/apcupsd/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 57-58
+pylint/plugins/pylint_home_assistant/helpers/ast_utils.py
+  ai_agent 1-45
+tests/components/satel_integra/snapshots/test_sensor.ambr
+  ai_agent 1-90
+homeassistant/components/homematicip_cloud/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 73-74,289
+homeassistant/components/derivative/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 278-279,331-332,381-386,401-402,409-411,493-494,536-537,558-561
+homeassistant/components/goodwe/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 72-73
+homeassistant/components/hue/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 77
+homeassistant/components/idasen_desk/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 105-107
+homeassistant/components/elevenlabs/stt.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 130-132
+tests/components/homeassistant_connect_zbt2/snapshots/test_diagnostics.ambr
+  ai_agent 19,28
+homeassistant/components/qvr_pro/camera.py
+  ai_agent 101
+tests/components/satel_integra/test_sensor.py
+  ai_agent 1-129
+tests/components/solaredge/conftest.py
+  ai_agent 8-12,29-54,59-76
+pylint/plugins/pylint_home_assistant/checkers/test_determinism.py
+  ai_agent 1-150
+homeassistant/components/home_connect/fan.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 25-31
+homeassistant/components/cambridge_audio/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 41-43
+homeassistant/components/senz/api.py
+  ai_agent 12
+homeassistant/components/xiaomi_miio/fan.py
+  ai_agent 291
+homeassistant/components/crownstone/entry_manager.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 82-83,102-103
+homeassistant/components/pi_hole/__init__.py
+  ai_agent 109-112,137-146,154-155,172-173,175-177,193-195
+homeassistant/components/coolmaster/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 20,22-33
+homeassistant/components/cloud/client.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 375-379
+homeassistant/components/dynalite/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 23,89
+homeassistant/components/data_grand_lyon/diagnostics.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 24-31
+homeassistant/components/fritzbox/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2-6,28-31,39-42,50,61-63
+homeassistant/components/netatmo/camera.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2,172-173,181-183,299-302
+homeassistant/components/osoenergy/water_heater.py
+  ai_agent 154-155,159-160
+homeassistant/components/orvibo/switch.py
+  ai_agent 39-40,81-82,100-101
+homeassistant/components/proximity/sensor.py
+  ai_agent 176-180
+homeassistant/components/shelly/utils.py
+  ai_agent 227
+homeassistant/components/tellduslive/binary_sensor.py
+  ai_agent 24
+tests/components/recorder/test_websocket_api.py
+  ai_agent 2398,2421
+homeassistant/components/knx/validation.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 58-59,218,220-223,237,260,262-264,272,274-277,289,291-294
+homeassistant/components/fish_audio/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 133-134
+homeassistant/components/letpot/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 89,115-119
+homeassistant/components/squeezebox/entity.py
+  ai_agent 35-40
+homeassistant/components/command_line/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 128-129
+homeassistant/components/onedrive_for_business/backup.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 186-187
+tests/components/lg_thinq/fixtures/kimchi_refrigerator/device.json
+  ai_agent 1-9
+homeassistant/components/file_upload/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 77-78
+homeassistant/components/thermopro/manifest.json
+  ai_agent 28
+tests/components/solaredge/fixtures/inventory.json
+  ai_agent 1-39
+tests/components/unifi/test_device_tracker.py
+  ai_agent 589,592
+homeassistant/components/ecovacs/vacuum.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 416-420,434-436,492-493
+homeassistant/components/control4/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 205-206
+homeassistant/components/homekit_controller/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 225-226,274-275
+homeassistant/components/intellifire/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 64-67
+homeassistant/components/nest/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 356-357,363-364
+homeassistant/components/owntracks/device_tracker.py
+  ai_agent 2
+homeassistant/components/music_assistant/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 148-152,293-294
+tests/components/lg_thinq/conftest.py
+  ai_agent 120
+homeassistant/components/matter/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 24-26,88-89,97-98,100-105,135,153-154,196,234,580-585
+homeassistant/components/chacon_dio/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 53,63-64,86-87,118-119
+homeassistant/components/comelit/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 6-7,9,85-130
+homeassistant/components/idrive_e2/backup.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 240-243
+homeassistant/components/garadget/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 255-258
+homeassistant/components/lutron_caseta/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 54-55
+homeassistant/components/mqtt/datetime.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 149-150
+homeassistant/components/mjpeg/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 60-61
+homeassistant/components/blue_current/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 150-151,183-184
+homeassistant/components/izone/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 344-347,358-361,373-376
+homeassistant/components/recorder/table_managers/states_meta.py
+  ai_agent 131
+homeassistant/components/electrasmart/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 187-188,198-199,223-224,232-233
+homeassistant/components/slack/utils.py
+  ai_agent 27-28,33-34
+homeassistant/components/nederlandse_spoorwegen/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 55,100-101,118
+homeassistant/components/smlight/entity.py
+  ai_agent 28-31
+homeassistant/components/iss/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 64-66
+homeassistant/components/onvif/event_manager.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 278,356-357,425-427,453-455,469-470,623-624
+homeassistant/components/signal_messenger/notify.py
+  ai_agent 100
+homeassistant/components/forked_daapd/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 351
+homeassistant/components/smlight/infrared.py
+  ai_agent 6,30-31
+homeassistant/components/solarlog/sensor.py
+  ai_agent 264-266,355-356
+homeassistant/components/aws_s3/backup.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 245-247
+homeassistant/components/fastdotcom/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 32-33
+homeassistant/components/homekit/type_humidifiers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 270-272,289,292
+homeassistant/components/ibeacon/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 70-74,187-190,209-212,239-242,329-330,393-396
+homeassistant/components/huawei_lte/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 420-421
+homeassistant/components/prosegur/camera.py
+  ai_agent 84,97
+homeassistant/components/sonos/speaker.py
+  ai_agent 354,969-970,1180-1181,1183-1185,1271-1272
+homeassistant/components/starline/__init__.py
+  ai_agent 61,63,76
+homeassistant/components/deluge/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 16-24,27-28,40,42-44
+homeassistant/components/geniushub/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 147,151
+homeassistant/components/mobile_app/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2,98-99,232-234
+homeassistant/components/fritz/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 52-54,114-117,461-463
+homeassistant/components/google_cloud/tts.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 196-197
+homeassistant/components/kitchen_sink/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 12,26,186-214
+homeassistant/components/ouman_eh_800/coordinator.py
+  ai_agent 1-117
+homeassistant/components/plaato/entity.py
+  ai_agent 35-37
+homeassistant/components/homeassistant_hardware/silabs_multiprotocol_addon.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 310,452,744
+homeassistant/components/prowl/config_flow.py
+  ai_agent 48-49
+homeassistant/components/victron_gx/button.py
+  ai_agent 1-64
+homeassistant/components/voip/switch.py
+  ai_agent 27
+homeassistant/components/worldclock/config_flow.py
+  ai_agent 56-57
+homeassistant/components/duco/fan.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 65-66
+homeassistant/components/cloudflare/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 21
+homeassistant/components/discovergy/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 176-177,217-221
+homeassistant/components/homewizard/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 87-90,107-109
+homeassistant/components/met_eireann/weather.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 34
+homeassistant/components/motioneye/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 62-69
+homeassistant/components/power/trigger.py
+  ai_agent 23-26
+homeassistant/components/azure_service_bus/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 111
+homeassistant/components/risco/alarm_control_panel.py
+  ai_agent 40-42
+homeassistant/components/xiaomi/camera.py
+  ai_agent 158
+homeassistant/components/cover/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 431-437
+homeassistant/helpers/device_registry.py
+  ai_agent 413-414,463-464,562-563,1096-1099,1131-1132,1188-1190,1398-1401
+homeassistant/components/nextbus/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 33
+homeassistant/components/backup/manager.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1190,1192-1193,1290-1291,2161-2162
+tests/components/weatherflow_cloud/snapshots/test_sensor.ambr
+  ai_agent 237-295,1232-1349,1409-1464
+homeassistant/components/squeezebox/config_flow.py
+  ai_agent 290-293,336-339
+homeassistant/components/intelliclima/fan.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 110-111
+homeassistant/components/konnected/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+pylint/plugins/pylint_home_assistant/checkers/quality_scale/reauthentication_flow.py
+  ai_agent 1-57
+homeassistant/components/data_grand_lyon/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 63-78,82-86,88-115,161-162
+homeassistant/components/raspberry_pi/hardware.py
+  ai_agent 38
+homeassistant/components/google_drive/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 45-46
+homeassistant/components/roomba/vacuum.py
+  ai_agent 357
+homeassistant/components/sia/hub.py
+  ai_agent 54,77-84,116-117,127,143-146
+tests/components/influxdb/test_config_flow.py
+  ai_agent 786-808
+homeassistant/components/broadlink/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 36
+homeassistant/components/aladdin_connect/api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 27
+homeassistant/components/eurotronic_cometblue/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 28-35
+homeassistant/components/simplefin/coordinator.py
+  ai_agent 46-48
+homeassistant/components/toon/climate.py
+  ai_agent 105,112
+pylint/plugins/pylint_home_assistant/checkers/actions/service_registration.py
+  ai_agent 1-136
+tests/components/infrared/common.py
+  ai_agent 5-10,17,20,32-58,65-75,77-79
+tests/components/pyload/conftest.py
+  ai_agent 11,31-36,42-45,53-57
+homeassistant/components/gree/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 97-98,119-120
+homeassistant/components/guntamatic/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-26
+homeassistant/components/ambient_network/helper.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 29-30
+homeassistant/components/homekit/type_thermostats.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 486-488
+homeassistant/components/indevolt/diagnostics.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 28-36,48-50
+homeassistant/components/config/automation.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 7
+homeassistant/components/indevolt/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 188-191
+homeassistant/components/knx/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 123
+tests/components/cloud/test_tts.py
+  ai_agent 16
+tests/components/kitchen_sink/test_event.py
+  ai_agent 1-126
+tests/components/wyoming/test_select.py
+  ai_agent 7
+homeassistant/components/demo/alarm_control_panel.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 6
+homeassistant/components/smarttub/entity.py
+  ai_agent 104
+homeassistant/components/ruuvi_gateway/coordinator.py
+  ai_agent 18
+homeassistant/helpers/condition.py
+  ai_agent 25,296-298,321,327-332,337,343-348,353,358-359,397,544,579,779-782,1108-1110,1143,1148-1151
+homeassistant/components/fritz/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 232,357-359,373-384,388-389
+homeassistant/components/apcupsd/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 476-481,483-485,533-537,546-547,555-556,588-589
+homeassistant/components/kiwi/lock.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 114
+homeassistant/components/ouman_eh_800/sensor.py
+  ai_agent 1-186
+tests/components/airvisual/test_init.py
+  ai_agent 15
+homeassistant/components/bond/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 34
+homeassistant/components/integration/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 247-248,394-396
+homeassistant/components/input_select/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 244,300-301
+homeassistant/components/kitchen_sink/fan.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 16-25,39-40,110,128,134,145,147,149
+homeassistant/components/guntamatic/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-151
+homeassistant/components/lg_infrared/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 10,22-28,45-49,52-69,71,73,75-95,99-100
+homeassistant/components/nextbus/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 28
+homeassistant/components/picnic/config_flow.py
+  ai_agent 196-197,202-203
+homeassistant/components/ssdp/server.py
+  ai_agent 127-131
+homeassistant/components/todoist/calendar.py
+  ai_agent 354
+homeassistant/components/hassio/auth.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 9-13,23,29,31-32,38,44-47,62
+homeassistant/components/locative/device_tracker.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/picnic/todo.py
+  ai_agent 70-71
+homeassistant/components/openai_conversation/stt.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 52-53
+tests/components/conftest.py
+  ai_agent 98,237-238,240-247,249-258,909-910
+tests/components/energy/test_websocket_api.py
+  ai_agent 150-151
+tests/components/hassio/test_issues.py
+  ai_agent 30-31,1105-1107,1109,1114,1130-1132,1148-1149,1152-1155,1161,1164,1167,1169-1172,1176-1179,1181-1187,1193-1194,1201,1203-1216,1219-1221
+tests/components/imgw_pib/conftest.py
+  ai_agent 37-42
+homeassistant/components/broadlink/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 33
+homeassistant/auth/providers/homeassistant.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 123-126,143-145
+homeassistant/components/rachio/switch.py
+  ai_agent 159,326-327
+homeassistant/components/esphome/radio_frequency.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 60-63
+homeassistant/components/motioneye/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 35
+requirements.txt
+  ai_agent 33,37,58
+homeassistant/components/flock/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 66
+homeassistant/components/imgw_pib/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 51-52
+homeassistant/components/unifi/config_flow.py
+  ai_agent 33,47,259-260,262,270-274,308,322-369,371-372
+homeassistant/components/asuswrt/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 10,33-42
+homeassistant/components/netatmo/webhook.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/arcam_fmj/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 21,24,55,99-104,115-118,201-205
+.github/copilot-instructions.md
+  s_62c17910b6496b::t_4fc8bd6e1d937b 19-23,36-37,42-43
+homeassistant/components/mqtt/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 55
+homeassistant/components/comelit/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 154
+homeassistant/components/generic_thermostat/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 699-700
+homeassistant/components/esphome/manager.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 345
+homeassistant/components/androidtv/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 18,36,102-114,162-165
+homeassistant/components/infrared/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2-9,16-18
+homeassistant/components/knx/storage/knx_selector.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 37-41,46
+homeassistant/components/google_photos/media_source.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 114-115,286-288
+homeassistant/components/maxcube/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 96-97
+homeassistant/components/octoprint/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 221
+homeassistant/helpers/schema_config_entry_flow.py
+  ai_agent 478
+homeassistant/components/androidtv/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 20-29
+homeassistant/components/infrared/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-174
+homeassistant/components/bluetooth/websocket_api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 40-41
+homeassistant/components/shelly/__init__.py
+  ai_agent 120
+homeassistant/helpers/template/extensions/areas.py
+  ai_agent 102-104,133-135
+tests/components/light/common.py
+  ai_agent 201
+homeassistant/components/esphome/infrared.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 8,22-25
+homeassistant/components/input_datetime/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 101,264,287
+homeassistant/components/climate/trigger.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 123-125
+homeassistant/components/overkiz/entity.py
+  ai_agent 50-51
+homeassistant/components/homee/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 47,103
+homeassistant/components/plex/strings.json
+  ai_agent 32,38-41,43-45
+pylint/plugins/pylint_home_assistant/checkers/quality_scale/parallel_updates.py
+  ai_agent 1-71
+homeassistant/components/recorder/table_managers/statistics_meta.py
+  ai_agent 54-55,135-137,209-212,273-274,292-293,387-388
+homeassistant/components/command_line/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 137-138
+homeassistant/components/statistics/sensor.py
+  ai_agent 528,559-560,936-937,1101-1102
+homeassistant/components/mqtt/event.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 114-115
+homeassistant/components/mullvad/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 14,27,31,48
+homeassistant/components/husqvarna_automower/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 107-109
+homeassistant/components/esphome/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 73-75
+homeassistant/components/satel_integra/coordinator.py
+  ai_agent 4,12,15,20,31,43-47,57,145-177
+homeassistant/components/stream/recorder.py
+  ai_agent 83-84,86-88
+homeassistant/components/hive/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 124-125,160-161,238
+homeassistant/components/elkm1/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 123-127,243-244,250-251,253-254
+homeassistant/components/evohome/water_heater.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 100
+homeassistant/components/kraken/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 293-294
+homeassistant/components/rflink/sensor.py
+  ai_agent 357
+homeassistant/components/bluesound/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 333-334,693
+tests/components/marytts/test_tts.py
+  ai_agent 82,122
+homeassistant/components/shell_command/__init__.py
+  ai_agent 192
+homeassistant/components/caldav/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 105-106
+homeassistant/components/miele/vacuum.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 30-32
+homeassistant/components/pyload/__init__.py
+  ai_agent 10,41-43
+homeassistant/components/overkiz/__init__.py
+  ai_agent 134-135,207-209,211-215,242-243,282-283
+homeassistant/components/hassio/exceptions.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-7
+homeassistant/components/mullvad/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 18-19,24,26
+homeassistant/components/overkiz/climate/hitachi_air_to_air_heat_pump_ovp.py
+  ai_agent 68,72,322-323,330-331,335-338
+homeassistant/components/risco/strings.json
+  ai_agent 94-103
+homeassistant/generated/integrations.json
+  ai_agent 2734-2739,5165-5167
+homeassistant/components/amcrest/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 195-196
+homeassistant/helpers/trigger_template_entity.py
+  ai_agent 17,109-112,141-145,371-372
+homeassistant/components/kostal_plenticore/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 151-152,249-252,254-255
+homeassistant/util/language.py
+  ai_agent 186-189
+homeassistant/components/coolmaster/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 9
+pylint/plugins/pyproject.toml
+  ai_agent 1-36
+tests/components/homeassistant_connect_zbt2/test_config_flow.py
+  ai_agent 428-429,520
+tests/components/lg_infrared/test_config_flow.py
+  ai_agent 8,18-21,24-49,52-54,66,70-72,75-93,110,119-120,126,129,133,144-146,155
+homeassistant/components/homekit_controller/connection.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 248,252-254,338-339,344-345,597,649,733-735,737-741,1102-1103
+tests/helpers/test_condition.py
+  ai_agent 4458,5387-5460
+homeassistant/components/ihc/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 48-49
+homeassistant/components/smartthings/switch.py
+  ai_agent 88-95,104-111,113-122,173-179,181-187,206-214,276-283,444-449
+homeassistant/components/powerfox/diagnostics.py
+  ai_agent 32-37,79-84
+homeassistant/components/hue/v2/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 73,180,188,284-288,311-315
+homeassistant/components/homekit_controller/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 165-166
+homeassistant/components/google_cloud/helpers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 65-66
+homeassistant/components/dremel_3d_printer/camera.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 22-25
+homeassistant/components/panel_custom/__init__.py
+  ai_agent 92-93
+homeassistant/components/denonavr/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 255-256,261-263,395,401,407,413,419,425,431,437,443,449,455,461,467,478
+homeassistant/components/fitbit/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 53-54
+homeassistant/components/overkiz/climate/atlantic_pass_apc_zone_control_zone.py
+  ai_agent 78-79,110-114,187-188,221-222
+homeassistant/components/plugwise/__init__.py
+  ai_agent 48-49
+homeassistant/components/home_connect/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 64-66
+homeassistant/backup_restore.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 63-66,107-108
+homeassistant/components/fitbit/exceptions.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3-4
+homeassistant/components/screenlogic/entity.py
+  ai_agent 141-142
+homeassistant/components/indevolt/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3,24-26,29
+homeassistant/components/slack/notify.py
+  ai_agent 280,353-357
+homeassistant/components/conversation/models.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 103,106
+homeassistant/components/monarch_money/quality_scale.yaml
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-171
+homeassistant/components/switchbee/switch.py
+  ai_agent 80-82
+homeassistant/components/xiaomi_aqara/config_flow.py
+  ai_agent 43-44
+homeassistant/components/emulated_hue/hue_api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 651-652,793,811-812
+homeassistant/components/overkiz/executor.py
+  ai_agent 89-91,112-113,126-128
+pylint/plugins/pylint_home_assistant/checkers/config_flow/__init__.py
+  ai_agent 1
+homeassistant/components/snmp/device_tracker.py
+  ai_agent 105,128,149
+homeassistant/helpers/entity_component.py
+  ai_agent 70-71
+homeassistant/components/abode/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 47
+homeassistant/components/intelliclima/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 69-70
+homeassistant/components/netgear_lte/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 59
+script/translations/migrate.py
+  ai_agent 56,58-59
+tests/components/guntamatic/test_init.py
+  ai_agent 1-47
+tests/components/homeassistant_connect_zbt2/test_init.py
+  ai_agent 10-14,25-234
+homeassistant/components/aosmith/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 48-51
+homeassistant/components/homee/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 40
+homeassistant/components/mobile_app/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 86-87,113
+homeassistant/components/pi_hole/coordinator.py
+  ai_agent 73-75,81-83,86-88,92-95
+homeassistant/components/rainbird/__init__.py
+  ai_agent 155-156,207-208,228-229,248-249
+homeassistant/components/sql/config_flow.py
+  ai_agent 87-88
+homeassistant/components/chacon_dio/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 42,49-50,65-66
+homeassistant/components/lg_soundbar/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 22-23
+homeassistant/components/mqtt/vacuum.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 148-149
+homeassistant/components/nasweb/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 129-130
+homeassistant/components/sql/util.py
+  ai_agent 2,124-125
+homeassistant/components/systemnexa2/coordinator.py
+  ai_agent 102-104
+homeassistant/components/airtouch4/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 161-162,250-251
+homeassistant/components/homekit/type_air_purifiers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 381,411
+tests/components/satel_integra/snapshots/test_diagnostics.ambr
+  ai_agent 2,47-73
+homeassistant/components/system_bridge/__init__.py
+  ai_agent 349,363,377,391,405,419,436
+tests/util/test_color.py
+  ai_agent 291
+homeassistant/components/knx/storage/expose_controller.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 52,56-58
+homeassistant/components/androidtv/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 97-99
+homeassistant/components/omie/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 66
+homeassistant/components/recorder/table_managers/event_types.py
+  ai_agent 124
+homeassistant/components/control4/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 185-186
+homeassistant/components/letpot/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 98,123-127
+homeassistant/components/calendar/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 153-154,1060-1067,1073
+homeassistant/components/devolo_home_network/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 38-42
+homeassistant/components/switchbot/entity.py
+  ai_agent 44-45
+tests/components/homeassistant_yellow/test_init.py
+  ai_agent 8,278
+pylint/plugins/pylint_home_assistant/checkers/actions/const.py
+  ai_agent 1-325
+tests/helpers/test_config_validation.py
+  ai_agent 1131-1132,1149-1150,1170,1184
+homeassistant/components/samsungtv/media_player.py
+  ai_agent 369
+homeassistant/components/madvr/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 107-108
+homeassistant/components/cambridge_audio/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 63-66
+homeassistant/components/novy_cooker_hood/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 77-83
+homeassistant/components/hunterdouglas_powerview/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 29
+homeassistant/components/eheimdigital/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 33-34
+tests/components/mqtt/common.py
+  ai_agent 750
+homeassistant/components/hdmi_cec/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 55-59
+homeassistant/components/matter/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 71,74-79,98,101-104,107,111-113,116,119-137,188,190-196,247-248,256-259,288
+homeassistant/components/ads/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 109-110
+homeassistant/components/improv_ble/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 367-368,376-379,392-393,402-403
+homeassistant/components/broadlink/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 38
+homeassistant/components/mystrom/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 92,100
+homeassistant/components/freebox/router.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 146-147,184-185
+homeassistant/components/squeezebox/update.py
+  ai_agent 118-121
+homeassistant/components/atag/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 78
+homeassistant/components/lifx/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 281,326-327,384
+homeassistant/components/octoprint/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 105-106,154-155
+homeassistant/components/google_mail/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 56
+homeassistant/components/google_assistant_sdk/helpers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 140-144
+homeassistant/components/hassio/addon_panel.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 12-13,20,25-30,32-38
+homeassistant/components/lacrosse_view/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 14,57,69,76,79-80,92-94
+homeassistant/components/music_assistant/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 221-222
+homeassistant/components/arcam_fmj/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 142-155
+homeassistant/components/energyid/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 199-200,332-333,349-350
+homeassistant/components/google_generative_ai_conversation/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 371-373,381-382,516-520,556-560,759-761
+homeassistant/helpers/template/__init__.py
+  ai_agent 85-86,362-363,678
+homeassistant/components/hyperion/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 206-210,235-236,302
+homeassistant/helpers/check_config.py
+  ai_agent 109-112
+tests/common.py
+  ai_agent 1251,1259
+homeassistant/components/color_extractor/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 130
+homeassistant/components/blebox/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 5,26,61-62,80-112,116,174-175,183,198
+homeassistant/components/stream/hls.py
+  ai_agent 122-125,189-190,197
+homeassistant/components/valve/entity.py
+  ai_agent 1-177
+homeassistant/components/asuswrt/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 7
+homeassistant/components/matter/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 48-49,403-404,542-543
+homeassistant/components/cloudflare/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1
+homeassistant/components/rest/switch.py
+  ai_agent 173,189
+homeassistant/components/honeywell/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 152-154,475-477
+homeassistant/components/roborock/number.py
+  ai_agent 77
+homeassistant/components/husqvarna_automower/calendar.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 85,87,114,117
+tests/components/openrgb/test_select.py
+  ai_agent 276,313,361,409
+homeassistant/components/onvif/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 38,46,278-279,413,416-417,445-457
+tests/pylint/actions/__init__.py
+  ai_agent 1
+homeassistant/components/locative/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 115
+tests/pylint/actions/test_swallowed_exceptions.py
+  ai_agent 1-667
+homeassistant/components/feedreader/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 188-189
+homeassistant/components/environment_canada/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 92-93
+homeassistant/components/opentherm_gw/config_flow.py
+  ai_agent 102-103
+homeassistant/components/elkm1/time.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 60-62
+homeassistant/components/forecast_solar/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 108-112,247-251,287-291
+homeassistant/components/idasen_desk/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 41-44
+homeassistant/components/voip/assist_satellite.py
+  ai_agent 2
+tests/components/hassio/test_init.py
+  ai_agent 57,66,172,177-193,227,243,260,278,355,372,397,413,427,434-435,633,641,647,725,730-732,813-817,1145,1828-1870
+homeassistant/components/qwikswitch/sensor.py
+  ai_agent 48-49
+tests/test_core.py
+  ai_agent 955,2155,2166
+homeassistant/components/openrgb/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 20-21
+homeassistant/components/paperless_ngx/__init__.py
+  ai_agent 45-46
+homeassistant/components/harmony/remote.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 262-263
+homeassistant/components/nzbget/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 18-27,62-65,80-101,105
+homeassistant/components/radio_browser/media_source.py
+  ai_agent 174-175
+homeassistant/util/unit_conversion.py
+  ai_agent 157-160,699-702,798-801
+homeassistant/components/proxmoxve/__init__.py
+  ai_agent 200-201
+homeassistant/components/fronius/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 87-89,221-222
+homeassistant/components/squeezebox/switch.py
+  ai_agent 84-85,88-89
+homeassistant/generated/dhcp.py
+  ai_agent 307-310,483-485
+homeassistant/helpers/intent.py
+  ai_agent 199-203,265-268,296-299,359,791-794,1430
+homeassistant/components/intent/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 113-118,128-133
+homeassistant/components/esphome/entry_data.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 215,226,537,554
+homeassistant/components/ohme/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 110-112
+homeassistant/components/nmap_tracker/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 169
+homeassistant/components/eheimdigital/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 204
+homeassistant/components/iron_os/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 287-296
+homeassistant/components/keenetic_ndms2/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 200
+homeassistant/components/openai_conversation/tts.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 52-53
+homeassistant/components/smart_meter_texas/sensor.py
+  ai_agent 36
+homeassistant/components/philips_js/binary_sensor.py
+  ai_agent 65-69,92-96
+homeassistant/components/logger/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 76-77
+homeassistant/components/enphase_envoy/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 195,305-306
+homeassistant/components/smartthings/time.py
+  ai_agent 70-75,95-97
+homeassistant/components/switchbot/light.py
+  ai_agent 18,21,23,41-108
+homeassistant/components/feedreader/event.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 70-72
+homeassistant/setup.py
+  ai_agent 387-389
+tests/components/lg_infrared/utils.py
+  ai_agent 6-8,22,30
+homeassistant/components/google_air_quality/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 72-73,94-95
+homeassistant/components/fireservicerota/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 27
+tests/components/roborock/conftest.py
+  ai_agent 282-286,301-305
+homeassistant/components/azure_devops/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 137-138
+homeassistant/components/cloud/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 599-607
+homeassistant/components/myneomitis/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 298-299,342-343
+homeassistant/components/homekit/util.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 536-537,691
+homeassistant/components/xiaomi_miio/switch.py
+  ai_agent 520
+homeassistant/components/decora_wifi/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 164,173
+homeassistant/components/plex/helpers.py
+  ai_agent 30
+tests/components/imgw_pib/snapshots/test_diagnostics.ambr
+  ai_agent 25-34,65-70
+homeassistant/components/indevolt/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 10
+homeassistant/components/homeassistant_green/hardware.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 19
+homeassistant/components/smappee/__init__.py
+  ai_agent 2
+homeassistant/components/kitchen_sink/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 38,47-48,51
+homeassistant/components/google_generative_ai_conversation/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 257-258,325-326
+homeassistant/components/tellduslive/__init__.py
+  ai_agent 88
+homeassistant/components/openai_conversation/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 639-641
+homeassistant/components/libre_hardware_monitor/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 87-91,139-140
+homeassistant/components/opentherm_gw/entity.py
+  ai_agent 44-48
+homeassistant/components/ipma/weather.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 76-80,135-138,199-201
+homeassistant/components/sonos/entity.py
+  ai_agent 110
+homeassistant/components/foscam/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 20
+tests/components/sensibo/snapshots/test_entity.ambr
+  ai_agent 5,12,17,22,28,30,33-34,38,45,50,55,61,63,66-67,71,79,84,90,92,95-97,100,105-108,112,117,123,125,128-130
+homeassistant/components/coinbase/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 66-67
+homeassistant/components/mobile_app/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2,177-178
+homeassistant/components/freebox/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 48
+homeassistant/components/portainer/button.py
+  ai_agent 184-187
+homeassistant/components/screenlogic/config_flow.py
+  ai_agent 208
+homeassistant/components/bang_olufsen/websocket.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 155-156,179-182,203-205
+homeassistant/components/devolo_home_control/siren.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 21
+homeassistant/components/ffmpeg_noise/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 20
+homeassistant/components/doorbird/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 56-57,119-120
+homeassistant/components/intesishome/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 250-251
+homeassistant/components/snooz/config_flow.py
+  ai_agent 117-118
+homeassistant/components/zeversolar/manifest.json
+  ai_agent 4
+homeassistant/helpers/service.py
+  ai_agent 1187-1188
+homeassistant/components/mqtt/debug_info.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 45,64
+homeassistant/components/androidtv_remote/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 110-113,141-144
+homeassistant/components/guntamatic/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-90
+homeassistant/components/broadlink/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 316-317
+homeassistant/components/meteo_lt/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 56-57
+homeassistant/components/broadlink/remote.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 99,254,305
+homeassistant/components/jellyfin/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 28-30
+homeassistant/components/plex/config_flow.py
+  ai_agent 118,120,123,125,128-131,139,223
+homeassistant/components/roborock/time.py
+  ai_agent 142
+homeassistant/components/camera/img_util.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 94-95
+homeassistant/components/egauge/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 63,72
+tests/components/homeassistant_sky_connect/test_config_flow.py
+  ai_agent 532,574
+homeassistant/components/control4/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 171
+homeassistant/components/lg_thinq/fan.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 188
+homeassistant/components/stream/core.py
+  ai_agent 201,420,425-430
+homeassistant/components/sharkiq/vacuum.py
+  ai_agent 140-143
+homeassistant/components/control4/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 225-226
+homeassistant/components/aftership/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 59,75
+homeassistant/components/fressnapf_tracker/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 41-42
+homeassistant/components/rfxtrx/device_action.py
+  ai_agent 98
+homeassistant/components/ruuvitag_ble/sensor.py
+  ai_agent 200
+homeassistant/components/satel_integra/alarm_control_panel.py
+  ai_agent 79
+tests/components/ouman_eh_800/test_config_flow.py
+  ai_agent 1-156
+homeassistant/components/homematicip_cloud/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 538
+homeassistant/components/tellduslive/sensor.py
+  ai_agent 129,179
+homeassistant/components/konnected/panel.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2,85
+homeassistant/components/lg_infrared/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 7
+homeassistant/components/coinbase/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 160-162
+homeassistant/components/smartthings/const.py
+  ai_agent 72-74
+homeassistant/components/workday/strings.json
+  ai_agent 186,188,190,194,201-202,204-205,207-208,210-212
+tests/components/coolmaster/test_config_flow.py
+  ai_agent 5-6,14-15,19,23-24,28,44,50,55
+tests/components/guntamatic/__init__.py
+  ai_agent 1-15
+homeassistant/components/mysensors/helpers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 64,160-163
+homeassistant/components/blue_current/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 16-17,25-26
+homeassistant/components/conversation/chat_log.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 424-425,427-428,492-493,495-496,498-499,501-502,738-739
+tests/components/assist_pipeline/snapshots/test_websocket.ambr
+  ai_agent 21-25,120-124,231-235,352-356,484-488,516-520,570-574,799-803
+homeassistant/components/mcp_server/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 5-6
+.github/workflows/codeql.yml
+  s_62c17910b6496b::t_4fc8bd6e1d937b 31,36
+homeassistant/components/anthropic/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 549-551
+homeassistant/components/deluge/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 30-31
+homeassistant/auth/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 76-81
+homeassistant/components/home_connect/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 603,637-639
+homeassistant/components/eafm/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 117-118
+homeassistant/components/energy/data.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 189-191,212-214,371-373,435-436,513,527,620-621
+homeassistant/components/indevolt/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 45-48
+homeassistant/components/matter/water_heater.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 36-37
+homeassistant/components/nice_go/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 236-238,271-275
+homeassistant/components/smappee/api.py
+  ai_agent 40
+homeassistant/components/soma/cover.py
+  ai_agent 33-34
+homeassistant/helpers/entity_platform.py
+  ai_agent 331-332,585-586,717-719,849-851
+homeassistant/helpers/network.py
+  ai_agent 6,19-20,186-189,191-192,196-199
+homeassistant/components/ollama/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 144-145,147-148
+homeassistant/components/jellyfin/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 153-154,289-290
+tests/components/ohme/snapshots/test_switch.ambr
+  ai_agent 202-251
+tests/helpers/template/test_states.py
+  ai_agent 61-62,64-65,76-77,79-80
+homeassistant/components/homematic/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 145-146
+homeassistant/components/hyperion/camera.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 157-158
+homeassistant/components/rachio/device.py
+  ai_agent 161-162,261-262
+tests/components/owntracks/test_device_tracker.py
+  ai_agent 1422-1429,1445,1452,1455-1458
+tests/pylint/config_flow/__init__.py
+  ai_agent 1
+homeassistant/components/forked_daapd/browse_media.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 61-70
+homeassistant/components/miele/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 23-24
+homeassistant/components/ohme/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 10
+homeassistant/components/qbus/manifest.json
+  ai_agent 17
+homeassistant/components/light/intent.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 39-43
+homeassistant/components/sensor/__init__.py
+  ai_agent 303-304,421-424,464-469,576-582,667-670,788-793,812-823
+homeassistant/components/data_grand_lyon/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 11
+homeassistant/data_entry_flow.py
+  ai_agent 266,366-367,589
+tests/helpers/test_icon.py
+  ai_agent 44
+homeassistant/components/flume/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 118
+homeassistant/components/modbus/validators.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 167-170,186-187,206,221-222,246-249,268,282-289,310-314,335-337,468-469
+homeassistant/components/powerwall/__init__.py
+  ai_agent 181-182
+homeassistant/components/squeezebox/__init__.py
+  ai_agent 143-144
+homeassistant/components/rfxtrx/siren.py
+  ai_agent 90
+homeassistant/components/reolink/update.py
+  ai_agent 215,220
+tests/pylint/quality_scale/test_diagnostics.py
+  ai_agent 1-172
+homeassistant/components/homeassistant/scene.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 186
+tests/components/data_grand_lyon/conftest.py
+  ai_agent 7-14,19,23,53-77,102-115,129-141,150
+homeassistant/components/assist_pipeline/pipeline.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 592-595,938,1052-1056,1160-1164,1169-1170,1200-1201,1442-1443,1557-1560,1579-1583,1686,1748-1749,1762-1763,2067-2069
+homeassistant/components/ouman_eh_800/quality_scale.yaml
+  ai_agent 1-76
+homeassistant/components/orvibo/config_flow.py
+  ai_agent 93-95
+homeassistant/components/hyperion/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 71-72
+tests/components/solaredge/test_sensor.py
+  ai_agent 1,3,5,8,11-12,16-17,19,67-336,341,345,365,400,405,409-411,413,426-427,433,443-444,447,451,455-456,458,470,475,478-479,481,492-493,496-501,506,508,510-511,513,523-524,527-528,533,536-538,540,542-547,550-552,554-556,558-621,625,627-628,630-631,633,638-641,644-656,658,664-673,675-677,682,685-692
+homeassistant/components/habitica/todo.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 343-344
+homeassistant/components/music_assistant/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 76
+homeassistant/components/sonos/switch.py
+  ai_agent 158,402-403
+homeassistant/components/lcn/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 173-174
+homeassistant/components/unifi_access/image.py
+  ai_agent 10,13,77,79-82
+homeassistant/components/vizio/config_flow.py
+  ai_agent 62-63
+tests/components/asuswrt/test_config_flow.py
+  ai_agent 13,50-55,62,64-65,74-79,114,153,164,180,191-203,206-207,231,248,268,292,320,349
+homeassistant/components/lg_infrared/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 4-8,13-15,19-20,22,30,33,36,39,42,45,48,51,54,57,60,63,66,69,72,75,78,81,84,87,90,93,96,99-102,105,108,111,114-177,184
+homeassistant/core_config.py
+  ai_agent 370
+homeassistant/components/roborock/sensor.py
+  ai_agent 539-540
+tests/components/google_pubsub/test_init.py
+  ai_agent 48
+homeassistant/components/counter/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 257-258,263-264,269-270
+homeassistant/components/madvr/remote.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 55,65,74
+homeassistant/components/mqtt/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3839,4549-4550,4624,5161,5287-5288,5290-5291
+homeassistant/components/fyta/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 69-70
+homeassistant/components/elmax/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 71-73
+homeassistant/components/jewish_calendar/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 55-57
+homeassistant/components/push/camera.py
+  ai_agent 121
+homeassistant/components/duco/diagnostics.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 37-38
+homeassistant/components/nasweb/alarm_control_panel.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 138-139
+homeassistant/components/satel_integra/sensor.py
+  ai_agent 1-76
+homeassistant/components/anglian_water/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 98-101,135-137
+homeassistant/components/nmbs/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 85-88
+homeassistant/components/private_ble_device/entity.py
+  ai_agent 73
+tests/components/infrared/test_init.py
+  ai_agent 3,12,14,16,24,28,30-32,34,41,44-62,67,74,76-77,79,86,89,93,98-100,102,114-128,134,145,148-154,160-171,173-193,195-292
+tests/components/solaredge/fixtures/overview.json
+  ai_agent 1-11
+tests/components/unifi_access/test_image.py
+  ai_agent 159
+homeassistant/components/bayesian/helpers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 40-41
+homeassistant/components/geocaching/oauth.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 49-50,61-62
+homeassistant/components/homee/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 203
+homeassistant/components/airobot/button.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 86
+homeassistant/components/google_tasks/api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 119-120
+tests/components/fritz/test_config_flow.py
+  ai_agent 59,62,148,165-166,205,223-224,235,254-255,265,284-285,287,292,400,403,408,413,418-434,439-445,454,460,487,572
+homeassistant/components/flexit_bacnet/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 42-43
+homeassistant/components/keyboard_remote/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 77-80,200,259-262,282-284
+tests/components/zwave_js/conftest.py
+  ai_agent 1003-1009
+homeassistant/components/cloud/subscription.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 28-29
+homeassistant/components/deako/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 96
+homeassistant/components/crownstone/listeners.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3-6
+homeassistant/components/mochad/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 81,98
+homeassistant/components/myuplink/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 335
+homeassistant/components/analytics/analytics.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 6,301-318,352-354,356-359,432,615-616,818-819,833-834
+homeassistant/components/dlna_dms/dms.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/data_grand_lyon/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 8,20,22,118-166,184-192,194,206,210,223-244
+homeassistant/components/gios/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 51-52
+homeassistant/components/home_connect/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 402-404,411-425
+homeassistant/components/openai_conversation/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 668-671,674,683-684
+homeassistant/components/simplisafe/__init__.py
+  ai_agent 377
+homeassistant/components/devolo_home_control/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 78-80
+homeassistant/components/growatt_server/sensor/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/deako/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 35-36
+homeassistant/components/proxmoxve/button.py
+  ai_agent 305-308
+homeassistant/components/syncthru/config_flow.py
+  ai_agent 95-96
+homeassistant/components/voip/repairs.py
+  ai_agent 3
+homeassistant/components/cisco_webex_teams/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 62
+pylint/plugins/pylint_home_assistant/checkers/quality_scale/__init__.py
+  ai_agent 1
+homeassistant/components/sonos/media_player.py
+  ai_agent 41,310,842-846,852
+homeassistant/components/ollama/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 86-90
+tests/components/infrared/conftest.py
+  ai_agent 1-24
+homeassistant/components/weatherflow_cloud/sensor.py
+  ai_agent 22-24,26,28,34,156-192
+homeassistant/components/assist_pipeline/vad.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 207-208,297-300
+homeassistant/components/esphome/dashboard.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 66-73,127-128
+tests/components/indevolt/snapshots/test_diagnostics.ambr
+  ai_agent 42,141
+homeassistant/components/google_assistant/helpers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 175,428-429
+homeassistant/components/fully_kiosk/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 24-26
+homeassistant/components/matter/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 221-224,367-368,418-421
+homeassistant/components/music_assistant/button.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 35
+homeassistant/components/hisense_aehw4a1/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/overkiz/climate/hitachi_air_to_air_heat_pump_hlrrwifi.py
+  ai_agent 215-222,239-243,259-268
+homeassistant/components/enocean/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 15-17,63-66
+homeassistant/components/peblar/diagnostics.py
+  ai_agent 14,16-22,24-25
+pylint/plugins/pylint_home_assistant/checkers/class_module.py
+  ai_agent 1,7-8,22-23,27-41,48-53,58-78,85,116,119,121,125,129-130,132-134,138-141,149,151,162
+homeassistant/components/alexa/handlers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1258-1261
+homeassistant/components/tibber/sensor.py
+  ai_agent 987
+homeassistant/components/mobile_app/util.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+tests/components/guntamatic/test_sensor.py
+  ai_agent 1-75
+homeassistant/components/blebox/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 16-19
+homeassistant/components/mysensors/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 232
+tests/components/guntamatic/conftest.py
+  ai_agent 1,3-4,6,8-9,11,13-21,23-31,34-47,50-57,60-67
+homeassistant/components/eheimdigital/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 92
+homeassistant/components/igloohome/utils.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 9-12
+homeassistant/components/isy994/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 198-200
+homeassistant/components/knx/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 354-355,369-370,381-382
+homeassistant/components/ecobee/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 74
+homeassistant/components/esphome/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 64-66
+homeassistant/components/homeassistant_connect_zbt2/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 17,112,135,154-156
+homeassistant/components/asuswrt/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 26,39,146,155-163,238-241,251-252
+homeassistant/components/guntamatic/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-77
+homeassistant/components/minecraft_server/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 113-114,119-120
+homeassistant/components/modem_callerid/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 35-40
+homeassistant/components/smartthings/__init__.py
+  ai_agent 159-160,339-340,382-387,400-405,417-421,425-427,432-437
+tests/components/ouman_eh_800/__init__.py
+  ai_agent 1
+homeassistant/components/prusalink/__init__.py
+  ai_agent 110-111
+homeassistant/components/tellduslive/switch.py
+  ai_agent 26
+homeassistant/generated/config_flows.py
+  ai_agent 295,546
+homeassistant/components/starlink/coordinator.py
+  ai_agent 143-144
+homeassistant/components/snapcast/media_player.py
+  ai_agent 252,301-302,311-312
+homeassistant/components/onvif/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 42,56,68,80,198-200,209-211
+homeassistant/components/steamist/switch.py
+  ai_agent 27
+homeassistant/components/freebox/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 115-119
+homeassistant/components/nobo_hub/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 95,138
+homeassistant/components/overkiz/climate/somfy_heating_temperature_interface.py
+  ai_agent 62-74
+homeassistant/exceptions.py
+  ai_agent 62-64,185-188
+homeassistant/components/hue/v2/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 35,127-128,145-146,197-199
+homeassistant/components/intellifire/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 73-74,117-121,156-157,217
+homeassistant/components/data_grand_lyon/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-59
+homeassistant/components/iometer/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 77
+homeassistant/components/tplink/__init__.py
+  ai_agent 2
+homeassistant/components/homewizard/repairs.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 44-46
+homeassistant/helpers/entity.py
+  ai_agent 79,376-377,392-393,417-419,737-738,1191-1193,1212-1214
+homeassistant/components/cloud/http_api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 141-142,565-570
+CODEOWNERS
+  ai_agent 698-699,984-985,1310-1311,2065-2066
+homeassistant/components/omnilogic/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 43-46
+homeassistant/components/adguard/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 119,128
+homeassistant/components/reolink/host.py
+  ai_agent 363-364,371-372,493-495,837,868-869,889-890
+homeassistant/components/homeassistant_yellow/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 6,61-64,135-139
+homeassistant/util/loop.py
+  ai_agent 162-165
+homeassistant/components/meater/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 132-133
+homeassistant/components/esphome/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 20
+homeassistant/components/netatmo/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 129-136,138-144,659-661,728-731,774-778,826-830
+homeassistant/components/philips_js/light.py
+  ai_agent 97-101,252,296
+homeassistant/components/miele/diagnostics.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 39-41,47-49,55-57
+homeassistant/components/scrape/config_flow.py
+  ai_agent 11,14,192-193
+homeassistant/components/growatt_server/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 155-156
+homeassistant/components/nibe_heatpump/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 148-150
+homeassistant/components/lifx/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 225-226
+homeassistant/components/air_quality/trigger.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 71-76,83-88,99-108,119-128,135-144,151-160,167-172
+homeassistant/components/satel_integra/switch.py
+  ai_agent 57-58
+homeassistant/components/reolink/views.py
+  ai_agent 42-46,79-82,137-140
+homeassistant/components/utility_meter/sensor.py
+  ai_agent 22
+pylint/plugins/pylint_home_assistant/checkers/quality_scale/config_entry_unloading.py
+  ai_agent 1-63
+homeassistant/components/here_travel_time/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 91-92
+homeassistant/components/bang_olufsen/event.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 53-54
+homeassistant/components/knx/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 256-257,344-348,397-398,414-420,447-450,504-505,507,637-640,702-703,764-765
+tests/components/cloud/test_stt.py
+  ai_agent 12
+homeassistant/components/data_grand_lyon/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 10
+homeassistant/components/shelly/logbook.py
+  ai_agent 44-47
+tests/components/hassio/test_websocket_api.py
+  ai_agent 15
+homeassistant/components/netatmo/media_source.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/reolink/__init__.py
+  ai_agent 495-496
+tests/components/mysensors/test_config_flow.py
+  ai_agent 77,139,179
+homeassistant/components/trafikverket_train/util.py
+  ai_agent 6,19
+tests/pylint/test_decorator.py
+  ai_agent 53,155,202,256
+homeassistant/helpers/template/extensions/datetime.py
+  ai_agent 268-270
+homeassistant/components/fritzbox/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 74
+homeassistant/components/mobile_app/helpers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 172
+homeassistant/components/roborock/binary_sensor.py
+  ai_agent 160-161
+homeassistant/components/unifi_access/strings.json
+  ai_agent 139-141
+homeassistant/components/omie/util.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 25
+homeassistant/components/kraken/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 63-64,78
+homeassistant/components/satel_integra/__init__.py
+  ai_agent 12,29,35-40,53,59,68,75,138-139,147-148,171-180
+tests/components/fitbit/test_sensor.py
+  ai_agent 31,72-76,78-131,139,143-144,148,269
+tests/components/hardkernel/test_init.py
+  ai_agent 6,98
+homeassistant/components/homewizard/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 57-58
+homeassistant/components/linkplay/utils.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/hyperion/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 259-261
+homeassistant/components/ipma/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 115-119
+homeassistant/components/sftp_storage/client.py
+  ai_agent 33,180-181,190,221,248-251,300-302,311-312
+tests/components/google_assistant/test_smart_home.py
+  ai_agent 13,16,19,22,25
+homeassistant/components/sonos/alarms.py
+  ai_agent 92-99
+homeassistant/components/linkplay/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2,226-227
+homeassistant/components/avea/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 112-113
+homeassistant/components/airtouch5/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 37-39
+homeassistant/components/eheimdigital/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 59
+homeassistant/components/incomfort/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 101-103
+homeassistant/components/twinkly/coordinator.py
+  ai_agent 91
+homeassistant/components/ld2410_ble/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 100-102
+homeassistant/components/knx/expose.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 130-131,134-136
+homeassistant/components/recorder/migration.py
+  ai_agent 958-959,1614-1615,1835-1836,1838-1839,1841-1842,1844-1845,2028-2029,2044-2045,2182-2183,2254-2255,2263-2265,2301-2305,2311-2313,2326-2328,2347-2349,2351-2353,2363-2367,2369-2371,2438-2443,2460-2464,2494-2500,2502-2504,2665,2854-2860,2904-2910,3007-3008,3240-3241
+homeassistant/components/samsungtv/entity.py
+  ai_agent 40-41
+homeassistant/components/google/calendar.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 513-514
+homeassistant/components/homewizard/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 89-91,221-222,232
+homeassistant/components/smartthings/number.py
+  ai_agent 63-68,120-125,182-186
+homeassistant/components/weatherflow_cloud/strings.json
+  ai_agent 44-46,90-92,96-100
+homeassistant/components/cloud/prefs.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 12,287-288,346-347
+homeassistant/components/husqvarna_automower/api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 17
+homeassistant/components/peco/config_flow.py
+  ai_agent 104-107
+homeassistant/components/yamaha/media_player.py
+  ai_agent 410
+homeassistant/components/backblaze_b2/backup.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 87-90,239-240,400,409-410,490,512-513,565-566,585-586,614,659-660,671-672
+homeassistant/components/hassio/websocket_api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 42,51-52,137-139,180-193
+homeassistant/components/monoprice/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 133
+homeassistant/components/monoprice/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 81-83
+homeassistant/components/lutron_caseta/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 58,85-88
+homeassistant/components/heos/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 47-49
+homeassistant/components/elmax/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 31-32
+homeassistant/components/knx/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 20-21
+homeassistant/helpers/deprecation.py
+  ai_agent 46
+homeassistant/components/enigma2/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 71,152-154
+homeassistant/components/fritzbox/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 141-142
+homeassistant/helpers/normalized_name_base_registry.py
+  ai_agent 55-56
+script/translations/lokalise.py
+  ai_agent 49,54,77,82,84,89
+homeassistant/components/intent_script/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 257-258
+homeassistant/components/ista_ecotrend/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 213-216,286-288
+homeassistant/components/bayesian/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 85-87,94-95,148-151,234-235,364-365,422-423,582,647-648
+homeassistant/components/matter/fan.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 173-176
+homeassistant/helpers/device.py
+  ai_agent 112-113
+tests/components/homeassistant_sky_connect/test_hardware.py
+  ai_agent 23,26,109
+homeassistant/components/thermopro/sensor.py
+  ai_agent 116
+homeassistant/components/heos/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 136-137
+homeassistant/components/infrared/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 8
+tests/components/indevolt/conftest.py
+  ai_agent 22-23,25,28,32-33,36,40-41,129-130
+tests/helpers/test_trigger_template_entity.py
+  ai_agent 8
+tests/components/lg_infrared/test_media_player.py
+  ai_agent 27,79,92-93
+homeassistant/components/sftp_storage/backup.py
+  ai_agent 70-71
+homeassistant/components/homekit/type_fans.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 99-102
+homeassistant/components/hardkernel/hardware.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 23
+homeassistant/components/flexit_bacnet/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 118-122,156-160,186-190
+homeassistant/components/cambridge_audio/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 10,25,27,49-60,102-106
+homeassistant/components/homekit_controller/utils.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 19,21-22,24-25,36-37
+pylint/plugins/pylint_home_assistant/checkers/unused_test_fixture_args.py
+  ai_agent 1-77
+homeassistant/components/elgato/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 29-32
+homeassistant/components/frontend/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 512-513
+tests/components/cambridge_audio/snapshots/test_number.ambr
+  ai_agent 61-120
+homeassistant/components/roborock/__init__.py
+  ai_agent 308-309
+homeassistant/components/kitchen_sink/event.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-151
+tests/components/plex/test_config_flow.py
+  ai_agent 55,66-67,77,87,99-100,110,120,129-130,155,163-164,173,187,195-196,232,244-245,298,311-312,358,372-373,490,498-499,520,528-529,552,557,562-563,569,571,574-575,578,671,674-675,678,744-746,751-754,798-800,805-808,836,839-841,855,863,865-866
+homeassistant/components/homematic/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 121-124
+homeassistant/components/squeezebox/coordinator.py
+  ai_agent 109-110
+tests/components/logbook/test_init.py
+  ai_agent 16
+homeassistant/components/electric_kiwi/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 11-32
+homeassistant/components/hisense_aehw4a1/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/rainforest_eagle/data.py
+  ai_agent 34,50-51,61-63,73-74
+tests/components/cloud/test_http_api.py
+  ai_agent 30,32,37
+homeassistant/components/nad/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 215-216
+tests/components/data_grand_lyon/test_diagnostics.py
+  ai_agent 30-46
+homeassistant/components/shelly/config_flow.py
+  ai_agent 239-240,411,413-417,691,920-921,981-982
+homeassistant/components/fing/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 24-26,29-30
+homeassistant/components/lifx_cloud/scene.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 94
+homeassistant/components/emulated_roku/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 50-51
+homeassistant/components/goodwe/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 67-70
+homeassistant/components/mqtt/device_tracker.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 56-58
+homeassistant/components/otp/config_flow.py
+  ai_agent 29-30
+homeassistant/components/cast/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 206-207,721
+homeassistant/components/cync/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 91
+homeassistant/components/fronius/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 775-778,796-799
+homeassistant/components/foscam/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 18-22,29-33
+homeassistant/components/airvisual/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 78
+homeassistant/components/intent/timers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 206-209,314-315,648-649
+homeassistant/components/overkiz/const.py
+  ai_agent 91-122,141-143,149-151,154-162,164-166
+homeassistant/components/pyload/config_flow.py
+  ai_agent 14,21,43-44,50,61-62,68,90-92,118,161,176,178,196,217,253
+requirements_all.txt
+  ai_agent 83,257,791,1185-1187,1266,1344,1350,1359,1432,1718,1783-1785,2366,2611,2808,2829,3148,3367
+tests/components/data_grand_lyon/snapshots/test_sensor.ambr
+  ai_agent 485-841
+tests/components/deconz/test_device_trigger.py
+  ai_agent 11
+homeassistant/components/elmax/alarm_control_panel.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 34-35,139-140
+homeassistant/components/sensorpro/sensor.py
+  ai_agent 116
+homeassistant/components/dynalite/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 24
+homeassistant/components/auth/login_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 55-56,230-231
+homeassistant/components/hegel/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 301
+homeassistant/components/honeywell_string_lights/strings.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 5-6,11,14
+homeassistant/components/modbus/modbus.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 319-320,323-324,404-407
+tests/components/duco/snapshots/test_sensor.ambr
+  ai_agent 402,458
+homeassistant/components/lg_thinq/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 591-601,649-651,673-687,767-769,855-856,890-926
+homeassistant/components/radarr/calendar.py
+  ai_agent 49
+tests/components/ouman_eh_800/test_init.py
+  ai_agent 1-60
+homeassistant/components/broadlink/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 110
+homeassistant/components/solaredge/coordinator.py
+  ai_agent 118-119,228,457-459,550-553
+homeassistant/components/hue/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 82-85,340-341
+homeassistant/components/assist_pipeline/websocket_api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 473
+homeassistant/components/mysensors/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/philips_js/coordinator.py
+  ai_agent 88-91
+homeassistant/components/landisgyr_heat_meter/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 48-49
+homeassistant/components/surepetcare/__init__.py
+  ai_agent 59,78
+homeassistant/components/shopping_list/intent.py
+  ai_agent 86-88
+homeassistant/components/homeassistant/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 292,413,483-484,486-490
+homeassistant/components/waze_travel_time/__init__.py
+  ai_agent 172
+tests/components/blebox/test_light.py
+  ai_agent 4,9,12,334-398
+homeassistant/components/letpot/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 38,142,167-171
+homeassistant/components/hassio/ingress.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 23,53-55,200-201
+homeassistant/components/homekit_controller/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 47-53
+homeassistant/components/home_connect/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 134
+homeassistant/components/homekit_controller/humidifier.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 116-118
+homeassistant/components/imap/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 122-126
+homeassistant/components/mill/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 78
+homeassistant/components/config/script.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 6
+homeassistant/components/minecraft_server/api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 104,121,135-136
+homeassistant/components/pterodactyl/button.py
+  ai_agent 99-101
+homeassistant/components/fritzbox_callmonitor/base.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 65
+homeassistant/components/http/forwarded.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 48-50,151-152,196-197
+tests/helpers/test_selector.py
+  ai_agent 1369-1374
+tests/components/balboa/test_switch.py
+  ai_agent 44
+homeassistant/components/nest/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 324,368-369
+homeassistant/components/home_connect/select.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 91
+tests/components/homeassistant_green/test_init.py
+  ai_agent 5,102
+homeassistant/components/mjpeg/camera.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 149
+homeassistant/components/frontend/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 24
+homeassistant/components/control4/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 158-159
+homeassistant/components/starlink/sensor.py
+  ai_agent 67
+homeassistant/components/twilio_call/notify.py
+  ai_agent 69
+homeassistant/components/nobo_hub/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3-4,13-18
+homeassistant/components/easyenergy/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 247-250
+homeassistant/components/cloud/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 256-259
+homeassistant/components/emulated_kasa/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1
+tests/components/energy/test_sensor.py
+  ai_agent 26,1618,1992
+tests/components/homeassistant_yellow/test_hardware.py
+  ai_agent 7,68,104-133
+tests/components/unifi/test_config_flow.py
+  ai_agent 18,381,384,387,390-391,399-407
+homeassistant/components/honeywell_string_lights/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 37-43
+homeassistant/components/netgear/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 373-377
+homeassistant/components/palazzetti/sensor.py
+  ai_agent 23-26
+homeassistant/components/isy994/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 368
+homeassistant/components/overkiz/climate/valve_heating_temperature_interface.py
+  ai_agent 124-126
+homeassistant/components/geocaching/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 118-120,135-136
+homeassistant/components/panasonic_viera/config_flow.py
+  ai_agent 96-97,174
+homeassistant/components/recorder/db_schema.py
+  ai_agent 180,187-188
+homeassistant/components/satel_integra/client.py
+  ai_agent 44-45
+homeassistant/components/switchbee/entity.py
+  ai_agent 76-79
+homeassistant/components/melcloud/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 163-165
+homeassistant/components/pi_hole/config_flow.py
+  ai_agent 79-80,169-171,177-178
+homeassistant/components/rfxtrx/__init__.py
+  ai_agent 272,291
+homeassistant/components/coolmaster/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 57-59,71-72,80-82
+homeassistant/components/growatt_server/sensor/mix.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 245-246,257-259
+homeassistant/components/guntamatic/quality_scale.yaml
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1-72
+homeassistant/components/mailgun/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/matrix/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 234-235,251-252,353-354,358,444-445
+homeassistant/components/lacrosse_view/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3-4,7
+homeassistant/components/ntfy/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 29-33
+homeassistant/components/portainer/__init__.py
+  ai_agent 122-123,201-202
+homeassistant/components/omnilogic/common.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 5
+homeassistant/components/matter/update.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 179-184,187-194
+homeassistant/components/ridwell/entity.py
+  ai_agent 42
+homeassistant/components/ios/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/smartthings/button.py
+  ai_agent 170-174
+tests/components/solaredge/test_init.py
+  ai_agent 6,14,161-186
+tests/components/solaredge/test_coordinator.py
+  ai_agent 7,22,33,423-436
+homeassistant/components/bthome/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 71-72,83-86
+homeassistant/components/hunterdouglas_powerview/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 289,538-539,915-916
+homeassistant/components/elmax/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 133-134
+homeassistant/components/lg_infrared/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 4
+homeassistant/components/govee_ble/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 148
+homeassistant/components/onvif/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 21
+homeassistant/components/victron_gx/__init__.py
+  ai_agent 15
+homeassistant/components/dsmr_reader/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 19-22
+homeassistant/components/qingping/binary_sensor.py
+  ai_agent 58-60
+tests/components/comelit/test_init.py
+  ai_agent 1-117
+homeassistant/components/overkiz/water_heater/__init__.py
+  ai_agent 55-63
+homeassistant/components/homekit/type_cameras.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 144
+homeassistant/components/vallox/services.py
+  ai_agent 99
+homeassistant/components/august/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 167
+homeassistant/components/iron_os/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 43-46
+homeassistant/components/iskra/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 62-63
+homeassistant/components/template/trigger_entity.py
+  ai_agent 24
+homeassistant/components/mcp/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 43-46
+homeassistant/helpers/template/extensions/functional.py
+  ai_agent 178-180
+tests/components/fritz/snapshots/test_diagnostics.ambr
+  ai_agent 65
+tests/components/lg_thinq/fixtures/kimchi_refrigerator/profile.json
+  ai_agent 1-29
+homeassistant/components/jellyfin/client_wrapper.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 102-107
+homeassistant/components/rainforest_eagle/config_flow.py
+  ai_agent 77-78,83-84,86-88,93-94,97-98
+homeassistant/components/google_assistant/report_state.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 60-61,115-116,133-134
+homeassistant/components/raspberry_pi/__init__.py
+  ai_agent 3,17-20
+homeassistant/components/recorder/statistics.py
+  ai_agent 690-691,698,735-736,1262-1263,1311-1312,1369-1370,1416-1417,2385,2806-2807,3168-3169,3179-3182,3197-3201
+homeassistant/components/tomorrowio/sensor.py
+  ai_agent 333
+homeassistant/components/conversation/default_agent.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 174,682,1075-1076,1478
+tests/components/motioneye/test_config_flow.py
+  ai_agent 15,493,503-504,521,527,538,544-546
+tests/test_main.py
+  ai_agent 3-5,10-13,16-28,30-35,37-47,49-50
+homeassistant/components/number/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 407-412
+homeassistant/components/onvif/camera.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 139
+homeassistant/components/ondilo_ico/api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 29
+homeassistant/components/device_automation/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 165-166
+homeassistant/components/ecobee/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 81
+homeassistant/components/panasonic_viera/__init__.py
+  ai_agent 124-128
+homeassistant/components/lutron_caseta/device_trigger.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 380-381,410-411
+homeassistant/components/ifttt/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 85
+homeassistant/components/neato/vacuum.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 278,288,301,311,321,331
+homeassistant/components/squeezebox/browse_media.py
+  ai_agent 327-328,331-332
+homeassistant/components/knx/schema.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 151-154
+tests/components/data_grand_lyon/test_binary_sensor.py
+  ai_agent 1-81
+homeassistant/components/homekit_controller/device_trigger.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 210-213
+homeassistant/components/pi_hole/switch.py
+  ai_agent 78,100
+homeassistant/helpers/script.py
+  ai_agent 461,892-893,1019-1020,1842-1843
+tests/components/solaredge/fixtures/power_flow.json
+  ai_agent 1-20
+tests/pylint/config_flow/test_no_name.py
+  ai_agent 1-193
+homeassistant/components/loqed/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 113-114
+homeassistant/components/motionmount/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 28-41
+homeassistant/components/assist_pipeline/error.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 47-50
+homeassistant/components/konnected/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 48
+homeassistant/components/openrgb/light.py
+  ai_agent 188-189,362-364
+homeassistant/components/swiss_public_transport/__init__.py
+  ai_agent 148-149,159-161
+homeassistant/core.py
+  ai_agent 210,561-562,2737-2738
+tests/components/openrgb/test_init.py
+  ai_agent 88,245,293,336
+tests/components/prometheus/test_init.py
+  ai_agent 2839
+homeassistant/components/geocaching/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 32-35
+homeassistant/components/google/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 195-196
+homeassistant/components/mobile_app/websocket_api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2,29-30
+homeassistant/components/august/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 170-173
+homeassistant/components/google_weather/weather.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 267-269,297-299,302-304,335-337,339-341,343-345,363-365,367-369,371-373,375-377
+homeassistant/components/rituals_perfume_genie/coordinator.py
+  ai_agent 22,48-49,55-56
+homeassistant/components/roborock/switch.py
+  ai_agent 124
+tests/components/hassio/test_update.py
+  ai_agent 28
+homeassistant/components/envisalink/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 239-242
+tests/components/ouman_eh_800/conftest.py
+  ai_agent 1-260
+homeassistant/components/hassio/system_health.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3,18,32-41,45-52,55,64,99
+homeassistant/components/idrive_e2/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 69-72
+homeassistant/components/modern_forms/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 103,109,122,131
+homeassistant/components/androidtv_remote/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 45,68-69,81-82
+homeassistant/components/roon/media_player.py
+  ai_agent 210
+homeassistant/components/epic_games_store/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 88-92
+homeassistant/components/rfxtrx/sensor.py
+  ai_agent 271
+homeassistant/components/netatmo/data_handler.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/webdav/helpers.py
+  ai_agent 31
+homeassistant/components/letpot/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 101,126-130
+homeassistant/components/mqtt/discovery.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 558,568-571
+homeassistant/components/google_drive/api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 135-136,200-201,225-226
+homeassistant/components/habitica/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 743
+homeassistant/components/overkiz/config_flow.py
+  ai_agent 154-156
+homeassistant/components/message_bird/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 68
+homeassistant/components/energyzero/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 182-185
+homeassistant/components/bluetooth/passive_update_processor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 146-148,627
+homeassistant/components/fujitsu_fglair/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 32-35
+homeassistant/components/mobile_app/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 93-95
+homeassistant/components/broadlink/radio_frequency.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 86
+homeassistant/components/androidtv_remote/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 44-46
+homeassistant/components/tractive/switch.py
+  ai_agent 113,126
+.strict-typing
+  s_62c17910b6496b::t_4fc8bd6e1d937b 253,427
+homeassistant/components/netatmo/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 142
+homeassistant/components/bryant_evolution/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 49-50
+homeassistant/components/energy/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 17,194-195,225-226,312-313,372-377,400-401,672-676
+homeassistant/components/nest/camera.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 268-271
+homeassistant/components/ouman_eh_800/entity.py
+  ai_agent 1-42
+homeassistant/components/pglab/entity.py
+  ai_agent 76-79
+homeassistant/components/hassio/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 30,50,54-55,81-83,97-106,116,122,202,204,300-301,382,429
+homeassistant/components/redgtech/coordinator.py
+  ai_agent 38-39
+homeassistant/components/streamlabswater/__init__.py
+  ai_agent 50
+homeassistant/components/tellduslive/light.py
+  ai_agent 29
+homeassistant/components/bang_olufsen/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 16-19,255-256
+homeassistant/components/device_automation/condition.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 88
+homeassistant/components/eurotronic_cometblue/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 99-100
+homeassistant/components/hue/v1/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 43,48,84,101
+homeassistant/components/broadlink/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/deconz/services.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 88
+homeassistant/components/backup/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 101
+homeassistant/components/simplepush/notify.py
+  ai_agent 99
+homeassistant/components/withings/coordinator.py
+  ai_agent 273
+homeassistant/helpers/update_coordinator.py
+  ai_agent 343-347,444
+pylint/plugins/pylint_home_assistant/__init__.py
+  ai_agent 1-24
+homeassistant/components/netatmo/button.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 59-63
+tests/components/data_grand_lyon/test_sensor.py
+  ai_agent 4,7,14,18-23,29,139,145-281,284,286,289-320,334-338,342-343,349
+homeassistant/components/manual/alarm_control_panel.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 85-87
+homeassistant/components/lg_thinq/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 47-50
+homeassistant/components/ness_alarm/alarm_control_panel.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 26-27,30-31
+homeassistant/components/input_select/reproduce_state.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 50-51
+homeassistant/components/matter/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 531,546,564
+tests/components/huawei_lte/test_config_flow.py
+  ai_agent 364
+homeassistant/components/backblaze_b2/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 137-138,194-195,201-202
+tests/components/lg_thinq/fixtures/kimchi_refrigerator/status.json
+  ai_agent 1-12
+homeassistant/components/islamic_prayer_times/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 82-83
+homeassistant/components/libre_hardware_monitor/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 84-85,104-105,113
+tests/components/stream/test_worker.py
+  ai_agent 417
+homeassistant/components/devolo_home_control/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 73-74
+homeassistant/components/discovergy/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 28-29
+homeassistant/components/airly/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 187-188
+homeassistant/components/overkiz/water_heater/atlantic_domestic_hot_water_production_mlb_component.py
+  ai_agent 157-183
+tests/components/zha/test_repairs.py
+  ai_agent 12,36,39,46,77-78
+tests/pylint/type_hints/__init__.py
+  ai_agent 1
+homeassistant/components/data_grand_lyon/icons.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 3-7,9-29
+homeassistant/components/neato/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 103,114
+homeassistant/components/google_weather/diagnostics.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 37-41
+homeassistant/components/bluetooth/manager.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 356
+homeassistant/components/knx/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 130-132,196-198
+homeassistant/components/local_file/camera.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 70
+homeassistant/components/homeworks/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/netatmo/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 92-94,289-293,309-310,312-313
+homeassistant/components/pushbullet/config_flow.py
+  ai_agent 16-17
+homeassistant/components/scrape/__init__.py
+  ai_agent 193-194
+homeassistant/components/broadlink/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 2
+homeassistant/components/shelly/event.py
+  ai_agent 166-167
+homeassistant/components/vodafone_station/__init__.py
+  ai_agent 23,28
+homeassistant/components/lutron_caseta/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 83,128
+tests/components/analytics/test_analytics.py
+  ai_agent 280-282
+homeassistant/components/discord/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 196
+homeassistant/components/valve/const.py
+  ai_agent 3,8-22
+homeassistant/components/harmony/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 41-44
+homeassistant/components/homematicip_cloud/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 98-101,282-288,294-295,300-301,307-310,318-320,332-333,347-348
+homeassistant/components/london_underground/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 92-94,106-108
+homeassistant/components/monarch_money/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 179
+homeassistant/components/openhome/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 173,179,185,211,217,223,229,235,241,258,264,270,276
+homeassistant/components/pyload/strings.json
+  ai_agent 16,21,30,35,43,50,59,66-67,69,124
+homeassistant/components/eq3btsmart/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 183-185,199,217
+homeassistant/components/fitbit/api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 120-123
+homeassistant/components/airtouch5/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 181-182,294-295
+homeassistant/components/husqvarna_automower_ble/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 54-55
+homeassistant/components/onedrive_for_business/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 147-148
+homeassistant/components/recorder/filters.py
+  ai_agent 160-161
+homeassistant/components/shelly/coordinator.py
+  ai_agent 125-127
+homeassistant/components/duco/manifest.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 16
+homeassistant/components/overkiz/climate/atlantic_electrical_heater_with_adjustable_temperature_setpoint.py
+  ai_agent 77-80
+homeassistant/components/sia/config_flow.py
+  ai_agent 135,151-152
+homeassistant/components/smappee/config_flow.py
+  ai_agent 138-139,164-165,176-177
+homeassistant/components/smlight/light.py
+  ai_agent 128
+homeassistant/components/synology_dsm/config_flow.py
+  ai_agent 308-309
+homeassistant/components/bosch_alarm/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 110-111,120-121
+homeassistant/components/alexa/intent.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 227-228
+homeassistant/components/avea/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 167-168,171-172
+homeassistant/components/iron_os/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 149-151
+homeassistant/helpers/trigger.py
+  ai_agent 637,889-890,905-906,1444-1447
+homeassistant/components/homeassistant_alerts/coordinator.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 8,81-83
+mypy.ini
+  ai_agent 2260-2269,4000
+homeassistant/components/nobo_hub/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 37-42
+tests/components/hassio/test_addon_panel.py
+  ai_agent 4,10,17-18,21,25,40-49,61,73-76,80-82,109,121-124,128-130,151,162-165,169-171,187,195-197,209,220-222
+tests/components/lg_thinq/test_sensor.py
+  ai_agent 26
+tests/components/nzbget/test_config_flow.py
+  ai_agent 7,48,53-54,57,62,64,75,81
+homeassistant/components/goalzero/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 93-94
+homeassistant/components/roon/config_flow.py
+  ai_agent 79-81
+homeassistant/components/eheimdigital/time.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 102
+homeassistant/components/lg_infrared/icons.json
+  s_62c17910b6496b::t_4fc8bd6e1d937b 76-78
+homeassistant/components/lacrosse_view/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 147-148,187-188
+homeassistant/components/microsoft_face/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 118,136,150,170,189,213
+homeassistant/components/google_travel_time/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 70-71
+homeassistant/components/motionblinds_ble/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 47
+homeassistant/components/kitchen_sink/infrared.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 6-10,12,14-18,25-26,36-42,48-49,55,57,60,64-67,70,72-91
+homeassistant/components/traccar/device_tracker.py
+  ai_agent 2
+homeassistant/components/homekit/accessories.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 530-531,654-657
+homeassistant/helpers/template/extensions/floors.py
+  ai_agent 73
+tests/components/lg_infrared/snapshots/test_button.ambr
+  ai_agent 1202-1248
+homeassistant/components/sonarr/config_flow.py
+  ai_agent 22,26,96-100,134,138,141-158
+tests/components/scrape/conftest.py
+  ai_agent 9,12
+homeassistant/components/hue/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 61-62,68-69,85-86
+homeassistant/components/bang_olufsen/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 176-181,224-225,252-254,260-261,529-530,612,992-993
+homeassistant/components/ecobee/util.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 29,31-32
+homeassistant/components/ntfy/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 147-148
+tests/components/homeassistant_green/test_hardware.py
+  ai_agent 7,67,102-130
+tests/pylint/conftest.py
+  ai_agent 5-26,32,37-39,45-47,53-55,61-63,69-71,77-79,86,89-90,95-103,108,111,117-120,126-128
+homeassistant/components/kodi/notify.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 105
+homeassistant/components/iaqualink/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 73
+homeassistant/components/iskra/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 172-175
+homeassistant/components/satel_integra/binary_sensor.py
+  ai_agent 81-82
+homeassistant/components/pushover/notify.py
+  ai_agent 47,92
+homeassistant/components/esphome/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 184-185,191-192
+homeassistant/components/homekit/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 28,935
+homeassistant/components/hue/v1/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 36
+homeassistant/components/sensor/const.py
+  ai_agent 178-179,231-233,239-241,243-244,253-255,474-477,488-491,559-562
+homeassistant/components/elmax/cover.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 18,40-42,108-111
+homeassistant/components/synology_dsm/services.py
+  ai_agent 61
+homeassistant/components/dynalite/switch.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 19
+tests/components/hassio/test_auth.py
+  ai_agent 13,190,193
+homeassistant/components/advantage_air/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 174-175,300-304
+tests/components/lg_infrared/conftest.py
+  ai_agent 12,20-27,36,39-40,42,71-72
+homeassistant/components/overkiz/climate/atlantic_electrical_towel_dryer.py
+  ai_agent 25-26,150-151,153-154,166-167
+tests/components/vodafone_station/test_coordinator.py
+  ai_agent 3,5,7,70-105
+homeassistant/components/matter/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 129-130,216-218,347
+tests/test_test_fixtures.py
+  ai_agent 125
+homeassistant/components/remote_calendar/client.py
+  ai_agent 12
+homeassistant/components/eheimdigital/light.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 36
+homeassistant/components/dsmr/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 129-131
+homeassistant/components/husqvarna_automower/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 86-88
+homeassistant/components/lyric/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 363,392,471,486,499,504-505
+pylint/plugins/pylint_home_assistant/helpers/integration.py
+  ai_agent 1-101
+homeassistant/components/sonos/helpers.py
+  ai_agent 96
+homeassistant/helpers/target.py
+  ai_agent 304,324-325,416,418-421,426-428
+homeassistant/components/tellduslive/cover.py
+  ai_agent 27
+tests/components/onvif/test_config_flow.py
+  ai_agent 10,651,662-664
+tests/components/solaredge/snapshots/test_sensor.ambr
+  ai_agent 1-1582
+homeassistant/components/lg_infrared/button.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 27-28,122-124
+homeassistant/components/lg_infrared/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 7
+homeassistant/components/lutron_caseta/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 292-293
+tests/pylint/quality_scale/test_parallel_updates.py
+  ai_agent 1-238
+homeassistant/components/slide_local/coordinator.py
+  ai_agent 103-104
+homeassistant/components/netgear/router.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 208-210
+homeassistant/components/google_generative_ai_conversation/ai_task.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 89-90,153-155
+homeassistant/components/lamarzocco/calendar.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 156-159
+homeassistant/components/repetier/__init__.py
+  ai_agent 134
+homeassistant/components/websocket_api/commands.py
+  ai_agent 4,59,129,1041-1087
+tests/components/solaredge/fixtures/details.json
+  ai_agent 1-19
+homeassistant/components/esphome/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 99-100,144-148,359-360
+homeassistant/components/matter/api.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 279
+homeassistant/components/media_player/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 171-173
+homeassistant/components/mqtt/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 569
+homeassistant/components/nmbs/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 58,227-230
+pylint/plugins/pylint_home_assistant/checkers/type_hints/__init__.py
+  ai_agent 1-286
+tests/components/lg_thinq/snapshots/test_sensor.ambr
+  ai_agent 608-894
+tests/test_loader.py
+  ai_agent 1300
+homeassistant/components/backup/websocket.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 61-66,68-73,347-352,370-371
+homeassistant/components/calendar/trigger.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 330
+homeassistant/components/logbook/queries/entities_and_devices.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 42
+homeassistant/components/overkiz/alarm_control_panel.py
+  ai_agent 76-81,91-94
+homeassistant/components/wmspro/manifest.json
+  ai_agent 17
+homeassistant/components/matter/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 67-68,94,115-116,376-377,420-421
+homeassistant/helpers/debounce.py
+  ai_agent 184-187
+homeassistant/components/netatmo/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 63,165,190,192
+homeassistant/components/mpd/media_player.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 295-297,326-327
+homeassistant/components/assist_satellite/entity.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 294-295,505-506
+homeassistant/components/coolmaster/config_flow.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 12,15,34-48,64,75-77,86,91,95,104
+homeassistant/components/miele/sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 850-852,1167-1168,1181-1182,1219-1220,1267-1271
+homeassistant/components/elkm1/number.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 71-73
+homeassistant/components/history_stats/data.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 95-100,222,288-289
+homeassistant/components/hue/v1/sensor_base.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 167
+homeassistant/components/esphome/assist_satellite.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 70-94,101-112,173-174,190,205,320-322,347-358,577-580,603,605-616,767
+homeassistant/components/home_connect/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 33-45,51-53,58-64,149-151,153-154,207-209,214,219
+homeassistant/components/bluesound/const.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 1
+homeassistant/components/homeassistant_hardware/helpers.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 219-220
+homeassistant/components/brands/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 44
+homeassistant/components/homekit_controller/climate.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 288-290
+homeassistant/components/nina/binary_sensor.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 93-94
+homeassistant/components/nmbs/__init__.py
+  s_62c17910b6496b::t_4fc8bd6e1d937b 33
+homeassistant/components/opower/coordinator.py
+  ai_agent 91-97,250-251,400-401
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "a2e48eecdadac6242474894442b2a2089f660e73",
+  "prompts": {},
+  "sessions": {
+    "s_62c17910b6496b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0a022c44-d741-45c6-9d5f-ddd005268112",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+tests/components/switchbot/__init__.py
+  s_a268ce7d0b7e22::t_cd276925e941ba 1483-1506
+tests/components/switchbot/test_fan.py
+  s_a268ce7d0b7e22::t_d827449a70a3be 236-279
+  s_a268ce7d0b7e22::t_3bc4e5b58127c6 29
+tests/components/switchbot/test_switch.py
+  s_a268ce7d0b7e22::t_66a66d1c384eba 400-457
+  s_a268ce7d0b7e22::t_8aff0c78498674 28
+tests/components/switchbot/test_select.py
+  s_a268ce7d0b7e22::t_f8a5b0c133af04 17
+  s_a268ce7d0b7e22::t_33cc06f6dcdc2b 126-212
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "b220dd4636fbc6c518a45b758d7fa2f077443491",
+  "prompts": {},
+  "sessions": {
+    "s_a268ce7d0b7e22": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fffb7f12-c057-4cae-8bbf-f2b365caf2a5",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}

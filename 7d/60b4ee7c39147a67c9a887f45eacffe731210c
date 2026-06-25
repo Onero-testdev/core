@@ -6,6 +6,7 @@ tests/components/switchbot/test_light.py
 tests/components/switchbot/test_switch.py
   s_8eb67cfb690df0::t_22867a790bd558 401-402,461-497
   s_8eb67cfb690df0::t_911ed4d123d1ad 25
+  s_e99f0297875622::t_6e95881da9c86a 459-460
 tests/components/switchbot/test_fan.py
   s_8eb67cfb690df0::t_d0cda0cf5835f9 236-279
   s_8eb67cfb690df0::t_571ef19f680ce5 28
@@ -42,6 +43,14 @@ homeassistant/components/switchbot/const.py
       "agent_id": {
         "tool": "claude",
         "id": "98bf04bf-4447-4909-b7fd-f94c50161dcc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    },
+    "s_e99f0297875622": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6797fabd-a368-46db-b66b-a0f3c6b00c8d",
         "model": "claude-opus-4-8"
       },
       "human_author": "testdev <testdev@onero.com>"

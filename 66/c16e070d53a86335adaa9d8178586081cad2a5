@@ -1,0 +1,22 @@
+homeassistant/components/switchbot/light.py
+  s_96455c312e0390::t_364b07e83eefb5 297
+  s_96455c312e0390::t_47f0867088cc9c 318,324,330,336,342,348,354
+  s_96455c312e0390::t_12db12c79f0512 374
+  s_96455c312e0390::t_d8ef844a4aa879 252,258,264,270,276,282
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "66c16e070d53a86335adaa9d8178586081cad2a5",
+  "prompts": {},
+  "sessions": {
+    "s_96455c312e0390": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9791d29f-f516-4845-b1a5-7bcd919c2b7e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}

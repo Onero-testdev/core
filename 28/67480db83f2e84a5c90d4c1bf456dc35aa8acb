@@ -1,0 +1,19 @@
+tests/components/switchbot/test_switch.py
+  s_8eb67cfb690df0::t_48319a74d995f1 462,464-465,473,498
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "2867480db83f2e84a5c90d4c1bf456dc35aa8acb",
+  "prompts": {},
+  "sessions": {
+    "s_8eb67cfb690df0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "98bf04bf-4447-4909-b7fd-f94c50161dcc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}

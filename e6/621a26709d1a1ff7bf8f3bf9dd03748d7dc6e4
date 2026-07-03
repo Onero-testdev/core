@@ -1,0 +1,59 @@
+tests/components/switchbot/__init__.py
+  s_8eb67cfb690df0::t_4a14fc7dc7895f 592-614
+tests/components/switchbot/test_light.py
+  s_8eb67cfb690df0::t_8b503f936927f7 636-681
+  s_8eb67cfb690df0::t_74a64e56d76a42 32
+tests/components/switchbot/test_switch.py
+  s_8eb67cfb690df0::t_22867a790bd558 401-402,461-497
+  s_8eb67cfb690df0::t_911ed4d123d1ad 25
+  s_e99f0297875622::t_6e95881da9c86a 459-460
+tests/components/switchbot/test_fan.py
+  s_8eb67cfb690df0::t_d0cda0cf5835f9 236-279
+  s_8eb67cfb690df0::t_571ef19f680ce5 28
+homeassistant/components/switchbot/switch.py
+  s_8eb67cfb690df0::t_f1ef189ee2f24a 59-69
+  s_8eb67cfb690df0::t_1ef80c9f9f5323 109-113
+homeassistant/components/switchbot/light.py
+  s_8eb67cfb690df0::t_d28a4ee803f5fc 231-266,270-276
+  s_8eb67cfb690df0::t_19995ece62c8da 267-269
+  s_8eb67cfb690df0::t_ced0f9ed712c20 45-46
+homeassistant/components/switchbot/__init__.py
+  s_8eb67cfb690df0::t_d55c041487ddee 105-110
+  s_8eb67cfb690df0::t_9e12105f7f0f67 224
+homeassistant/components/switchbot/strings.json
+  s_8eb67cfb690df0::t_65df9cc600d79f 225-227
+  s_8eb67cfb690df0::t_130a3c2cc2202a 385-387
+  s_8eb67cfb690df0::t_dbfd5228c35f60 184
+homeassistant/components/switchbot/fan.py
+  s_8eb67cfb690df0::t_419c0570e3d2d1 7
+  s_8eb67cfb690df0::t_f80589c3ff80f6 52
+homeassistant/components/switchbot/const.py
+  s_8eb67cfb690df0::t_a3e94fa625f752 42
+  s_8eb67cfb690df0::t_cc56523a6cf88e 95
+  s_8eb67cfb690df0::t_dd22c671cbeaf6 179
+  s_8eb67cfb690df0::t_1ce0a045a39ffc 214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e6621a26709d1a1ff7bf8f3bf9dd03748d7dc6e4",
+  "prompts": {},
+  "sessions": {
+    "s_8eb67cfb690df0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "98bf04bf-4447-4909-b7fd-f94c50161dcc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    },
+    "s_e99f0297875622": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6797fabd-a368-46db-b66b-a0f3c6b00c8d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}

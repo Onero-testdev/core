@@ -1,5 +1,6 @@
 tests/components/switchbot/__init__.py
   s_8eb67cfb690df0::t_4a14fc7dc7895f 592-614
+  s_96455c312e0390::t_87b59603746451 615-618
 tests/components/switchbot/test_light.py
   s_8eb67cfb690df0::t_8b503f936927f7 636-681
   s_8eb67cfb690df0::t_74a64e56d76a42 32
@@ -43,6 +44,14 @@ homeassistant/components/switchbot/const.py
       "agent_id": {
         "tool": "claude",
         "id": "98bf04bf-4447-4909-b7fd-f94c50161dcc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    },
+    "s_96455c312e0390": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9791d29f-f516-4845-b1a5-7bcd919c2b7e",
         "model": "claude-opus-4-8"
       },
       "human_author": "testdev <testdev@onero.com>"

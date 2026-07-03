@@ -1,0 +1,36 @@
+homeassistant/components/switchbot/fan.py
+  s_a4e4b90f880ece::t_f544cbcbc88a27 148
+  s_a4e4b90f880ece::t_c4d0ad30e88570 172
+  s_a4e4b90f880ece::t_9c33b1d0a7c484 157
+  s_a4e4b90f880ece::t_8541477dd11b75 200
+  s_a4e4b90f880ece::t_a5dbca3cb667ee 185
+  s_a4e4b90f880ece::t_a73c064458bbdd 221
+  s_a4e4b90f880ece::t_fda88a4f8031e2 147
+  s_a4e4b90f880ece::t_8c70d29c3f7cf7 149-151,154-156
+  s_a4e4b90f880ece::t_97a8a22ba29ed0 158-160,169-171
+  s_a4e4b90f880ece::t_34c36168952112 173-175,182-184
+  s_a4e4b90f880ece::t_3a823c96ae49b5 186-188,197-199
+  s_a4e4b90f880ece::t_1b0065d2cdc608 201-203,218-220
+  s_a4e4b90f880ece::t_3d66e2b6080408 222-224
+  s_a4e4b90f880ece::t_a09bcd12930b2d 3,12,16,152-153,161-168,176-181,189-196,204-217,225-230
+homeassistant/components/switchbot/strings.json
+  s_a4e4b90f880ece::t_8d7047ec66388e 195-197,199,434-436
+tests/components/switchbot/test_fan.py
+  s_a4e4b90f880ece::t_fcbbf661724c77 286-378
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0dcf95ea1b01fc3e18539c1ac48425f796c6d8d2",
+  "prompts": {},
+  "sessions": {
+    "s_a4e4b90f880ece": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f5028e30-4cb8-4bc1-95a8-0a6bc2bf600d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}

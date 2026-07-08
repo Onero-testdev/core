@@ -1,0 +1,32 @@
+homeassistant/components/switchbot/strings.json
+  s_23cb1f7e9187f5::t_e8f14495d58517 300-305
+tests/components/switchbot/__init__.py
+  s_23cb1f7e9187f5::t_3205bde04c7d54 1208
+  s_23cb1f7e9187f5::t_b7c11f6d351053 1205-1207
+  s_23cb1f7e9187f5::t_a3e6c125b4d084 1209-1210
+homeassistant/components/switchbot/sensor.py
+  s_23cb1f7e9187f5::t_dd58a332810c57 143,147,149-159
+  s_23cb1f7e9187f5::t_1bfa096ffa20f7 140-142
+  s_23cb1f7e9187f5::t_cab5c664f94db2 144-146
+  s_23cb1f7e9187f5::t_90cb5b23169bc8 148
+  s_23cb1f7e9187f5::t_daa4295e49990a 160
+tests/components/switchbot/test_sensor.py
+  s_23cb1f7e9187f5::t_e1329d0a38b5b3 760,789-799
+  s_23cb1f7e9187f5::t_d1f6604422e8a2 800
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1e740e097bdb81d0e316d52a97941c4651ea4f5e",
+  "prompts": {},
+  "sessions": {
+    "s_23cb1f7e9187f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0b8befe2-1419-4279-9017-5b9e992ce4e2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

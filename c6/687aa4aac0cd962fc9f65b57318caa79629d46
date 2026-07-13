@@ -1,0 +1,22 @@
+tests/components/switchbot/test_event.py
+  s_7555072531523e::t_834705cc03abc6 255-256,261-269
+  s_7555072531523e::t_06aa5a50dfe76f 390-404
+homeassistant/components/switchbot/event.py
+  s_7555072531523e::t_198c1bc3bb35e1 48,56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "c6687aa4aac0cd962fc9f65b57318caa79629d46",
+  "prompts": {},
+  "sessions": {
+    "s_7555072531523e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d610ed33-8799-4d81-b58d-761535af525d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}

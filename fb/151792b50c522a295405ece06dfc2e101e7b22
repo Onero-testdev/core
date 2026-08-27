@@ -1,0 +1,21 @@
+homeassistant/components/switchbot/manifest.json
+  s_e4582bfbf454bb::t_78e0d6595fa147 45
+requirements_all.txt
+  s_e4582bfbf454bb::t_8fc70ac5b843ff 86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "fb151792b50c522a295405ece06dfc2e101e7b22",
+  "prompts": {},
+  "sessions": {
+    "s_e4582bfbf454bb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a017f6-f459-7de3-85d4-67a29c341c98",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Fan Kai <fankai@onero.com>"
+    }
+  }
+}

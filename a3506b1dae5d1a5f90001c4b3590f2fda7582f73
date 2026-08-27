@@ -1,0 +1,21 @@
+homeassistant/components/switchbot/select.py
+  s_e99f0297875622::t_10edeb777f58fb 111-113,150-152
+  s_e99f0297875622::t_78155e903f7db5 115-116,120-121
+  s_e99f0297875622::t_1844d935f9dd8c 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "a3506b1dae5d1a5f90001c4b3590f2fda7582f73",
+  "prompts": {},
+  "sessions": {
+    "s_e99f0297875622": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6797fabd-a368-46db-b66b-a0f3c6b00c8d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}

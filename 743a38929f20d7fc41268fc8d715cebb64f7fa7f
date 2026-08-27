@@ -1,0 +1,19 @@
+tests/components/switchbot/__init__.py
+  s_a268ce7d0b7e22::t_35e7115ee31f36 1490-1492
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "743a38929f20d7fc41268fc8d715cebb64f7fa7f",
+  "prompts": {},
+  "sessions": {
+    "s_a268ce7d0b7e22": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fffb7f12-c057-4cae-8bbf-f2b365caf2a5",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}

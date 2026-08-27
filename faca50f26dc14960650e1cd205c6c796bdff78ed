@@ -1,0 +1,565 @@
+homeassistant/components/israel_rail/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 68-72
+homeassistant/components/melnor/entity.py
+  s_e99f0297875622::t_0790df1e2597fd 9,33
+homeassistant/components/yalexs_ble/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 16
+homeassistant/components/duco/sensor.py
+  s_e99f0297875622::t_0790df1e2597fd 98-103,112-117
+tests/components/nasweb/conftest.py
+  s_e99f0297875622::t_20382f84efe00b 8-26,81-111
+tests/components/yoto/test_media_player.py
+  s_e99f0297875622::t_20382f84efe00b 4,25,71-72
+homeassistant/components/ubus/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 9
+homeassistant/components/indevolt/coordinator.py
+  s_e99f0297875622::t_0790df1e2597fd 14,113-116,150-152,171-172,175-176,179,187-195
+homeassistant/components/hypontech/coordinator.py
+  s_e99f0297875622::t_0790df1e2597fd 8,20,41-42,66
+tests/components/owntracks/test_device_tracker.py
+  s_e99f0297875622::t_20382f84efe00b 1731-1749
+tests/components/knx/test_telegrams.py
+  s_e99f0297875622::t_20382f84efe00b 3-4,7,9-10,14,17,21-22,26-27,76,81,87,95-148,150-151,153-156,158-159,163-175,178-183,185-193,196,198-437,441-442,445-485
+homeassistant/components/lg_netcast/media_player.py
+  s_e99f0297875622::t_0790df1e2597fd 3,137,141-152
+homeassistant/components/cloud/system_health.py
+  s_e99f0297875622::t_0790df1e2597fd 34,40-51
+homeassistant/components/homevolt/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 175,178
+tests/components/cloud/test_system_health.py
+  s_e99f0297875622::t_20382f84efe00b 5,10-11,16,53-57,91-92,94-153
+homeassistant/components/duco/diagnostics.py
+  s_e99f0297875622::t_0790df1e2597fd 22,24,26,28,30,32-34
+tests/components/lg_netcast/test_media_player.py
+  s_e99f0297875622::t_20382f84efe00b 1-70
+homeassistant/components/immich/coordinator.py
+  s_e99f0297875622::t_0790df1e2597fd 122
+homeassistant/components/august/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 33
+tests/components/vistapool/test_number.py
+  s_e99f0297875622::t_20382f84efe00b 235
+tests/components/yoto/conftest.py
+  s_e99f0297875622::t_20382f84efe00b 4,17,91-94
+homeassistant/components/knx/repairs.py
+  s_e99f0297875622::t_0790df1e2597fd 18,24-25,165-187
+tests/components/switchbot/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 7,30,332-352
+homeassistant/components/melcloud_home/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 11
+homeassistant/components/knx/const.py
+  s_e99f0297875622::t_0790df1e2597fd 13,17,55-66,108,112,131-135,139-140
+homeassistant/components/knx/knx_module.py
+  s_e99f0297875622::t_0790df1e2597fd 4,52,88,96,106,134
+homeassistant/components/snooz/fan.py
+  s_e99f0297875622::t_0790df1e2597fd 22,88-91
+homeassistant/components/zha/entity.py
+  s_e99f0297875622::t_0790df1e2597fd 217-220
+tests/components/snooz/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 6,12,51-61
+homeassistant/components/acer_projector/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 8
+homeassistant/components/acaia/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 29
+tests/components/jvc_projector/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 6,34-45
+.pre-commit-config.yaml
+  s_e99f0297875622::t_0790df1e2597fd 3
+tests/components/local_todo/test_todo.py
+  s_e99f0297875622::t_20382f84efe00b 3,30-32,35,55,58,69,76,107,152,196,270,397,448,522-523,545-547,558,562,571-572,586,717,790-875
+homeassistant/components/knx/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 1126,1132-1135,1143,1147-1160
+homeassistant/components/blebox/coordinator.py
+  s_e99f0297875622::t_0790df1e2597fd 7,11,44-45
+homeassistant/components/meteoclimatic/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 13,16
+homeassistant/components/conversation/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 9
+tests/components/hypontech/test_sensor.py
+  s_e99f0297875622::t_20382f84efe00b 7-8,10,29-61
+homeassistant/components/yoto/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 39-48,59-60
+homeassistant/components/homematicip_cloud/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 101-108
+homeassistant/components/opengarage/entity.py
+  s_e99f0297875622::t_0790df1e2597fd 55
+homeassistant/components/vistapool/light.py
+  s_e99f0297875622::t_0790df1e2597fd 74
+homeassistant/components/debugpy/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 9
+tests/components/workday/test_calendar.py
+  s_e99f0297875622::t_20382f84efe00b 4,18,95-125
+homeassistant/package_constraints.txt
+  s_e99f0297875622::t_20382f84efe00b 4,40,66,73
+pyproject.toml
+  s_e99f0297875622::t_20382f84efe00b 77,651
+homeassistant/components/tessie/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 6,85-86,130,136,160-162
+homeassistant/components/flux_led/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 16-20
+homeassistant/components/ipp/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/blebox/const.py
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/blebox/config_flow.py
+  s_e99f0297875622::t_0790df1e2597fd 3,30,51,93,121-122,254-307
+homeassistant/components/anova/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/miele/const.py
+  s_e99f0297875622::t_0790df1e2597fd 511-512,517,524
+tests/components/indevolt/test_services.py
+  s_e99f0297875622::t_20382f84efe00b 76-94
+homeassistant/components/acmeda/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 9
+homeassistant/components/eurotronic_cometblue/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 60
+tests/components/blebox/test_config_flow.py
+  s_e99f0297875622::t_20382f84efe00b 30-43,190,242-244,249,263-265,280,287-289,298,305,315,321-337,405,449-552
+tests/components/aqvify/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 3-4,6-7,13,19,45,47,101-201
+homeassistant/components/plaato/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 44
+tests/components/yale_smart_alarm/conftest.py
+  s_e99f0297875622::t_20382f84efe00b 49
+requirements.txt
+  s_e99f0297875622::t_20382f84efe00b 28,50,58
+homeassistant/components/roborock/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 23-24
+tests/components/rainbird/test_config_flow.py
+  s_e99f0297875622::t_20382f84efe00b 280,282-290,300-312,370,374-381,386-389,396-407
+homeassistant/components/template/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 1204,1206,1208,1216,1240,1265-1266,1268,1270,1278,1301-1302
+tests/components/snooz/snapshots/test_init.ambr
+  s_e99f0297875622::t_20382f84efe00b 1-36
+tests/components/cloud/conftest.py
+  s_e99f0297875622::t_20382f84efe00b 73
+homeassistant/components/yoto/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 22
+homeassistant/components/serial/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 7
+homeassistant/components/tessie/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 11
+homeassistant/components/overkiz/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 16
+tests/components/knx/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 41-42,47-48,362,367-439
+homeassistant/components/droplet/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/knx/telegrams.py
+  s_e99f0297875622::t_0790df1e2597fd 1,3-8,10-14,22,24-25,28-34,36-39,41,43-49,85,90-103,105,121-152,154-202,204-220,228-232,238-242,293-396
+tests/components/mystrom/snapshots/test_init.ambr
+  s_e99f0297875622::t_20382f84efe00b 1-36
+tests/components/ring/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 8,24,47-58
+tests/components/knx/snapshots/test_diagnostic.ambr
+  s_e99f0297875622::t_20382f84efe00b 9-10,13-14,46-48,51-52,78-79,82-83,109-110,113-114
+homeassistant/components/select/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 11
+homeassistant/components/datadog/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/vistapool/number.py
+  s_e99f0297875622::t_0790df1e2597fd 236
+tests/components/indevolt/test_number.py
+  s_e99f0297875622::t_20382f84efe00b 86,97-98
+homeassistant/components/nasweb/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 54,62,70-73,85,92,102-103,107-108
+homeassistant/components/yoto/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 13
+homeassistant/components/unifiprotect/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 12
+requirements_test.txt
+  s_e99f0297875622::t_20382f84efe00b 22,40
+homeassistant/components/knx/websocket.py
+  s_e99f0297875622::t_0790df1e2597fd 5,11,21,24,27-34,50,65,202-210,304,306,313-334,339-341,367-437
+tests/components/opengarage/conftest.py
+  s_e99f0297875622::t_20382f84efe00b 43
+homeassistant/components/yoto/time.py
+  s_e99f0297875622::t_0790df1e2597fd 1-86
+homeassistant/components/comelit/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 11
+tests/components/hypontech/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 3-4,9,11,41-60
+tests/components/rainmachine/fixtures/api_versions_data.json
+  s_e99f0297875622::t_20382f84efe00b 3
+homeassistant/components/yoto/entity.py
+  s_e99f0297875622::t_0790df1e2597fd 3,5-7,50-76
+homeassistant/components/blebox/sensor.py
+  s_e99f0297875622::t_0790df1e2597fd 27,101-113
+tests/components/knx/test_telegrams_migration.py
+  s_e99f0297875622::t_20382f84efe00b 1-88
+homeassistant/components/indevolt/select.py
+  s_e99f0297875622::t_0790df1e2597fd 109-111
+homeassistant/components/indevolt/switch.py
+  s_e99f0297875622::t_0790df1e2597fd 129-136
+homeassistant/components/melcloud_home/icons.json
+  s_e99f0297875622::t_0790df1e2597fd 10-23
+homeassistant/components/knx/trigger.py
+  s_e99f0297875622::t_0790df1e2597fd 18,20
+homeassistant/components/indevolt/sensor.py
+  s_e99f0297875622::t_0790df1e2597fd 89
+homeassistant/components/huum/number.py
+  s_e99f0297875622::t_0790df1e2597fd 7,37-39,52
+homeassistant/components/snooz/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 21-22
+tests/components/indevolt/test_select.py
+  s_e99f0297875622::t_20382f84efe00b 66,79-80
+tests/components/withings/test_sensor.py
+  s_e99f0297875622::t_20382f84efe00b 29,163,184,205,226,247-260
+tests/components/miele/test_fan.py
+  s_e99f0297875622::t_20382f84efe00b 116-141
+homeassistant/components/slide_local/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/snmp/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 9
+homeassistant/components/opendisplay/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 89-91
+homeassistant/components/reolink/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 23
+homeassistant/components/knx/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 16-17
+requirements_test_pre_commit.txt
+  s_e99f0297875622::t_20382f84efe00b 4
+tests/components/knx/test_config_flow.py
+  s_e99f0297875622::t_20382f84efe00b 19,22,44-45,51-52,74-83,85,230,306,397,468,589,727,825,874,923,980,1053,1062-1064,1066-1067,1204,1254,1353-1368,1378,1393,1460-1479,1488,1493,1530-1544,1567,1569,1593-1602,1620,1622,1656-1669,1690-1693,1697,1700-1701,1703-1710
+tests/components/melcloud_home/test_sensor.py
+  s_e99f0297875622::t_20382f84efe00b 1-37
+tests/components/select/test_reproduce_state.py
+  s_e99f0297875622::t_20382f84efe00b 5-6
+homeassistant/components/tuya/sensor.py
+  s_e99f0297875622::t_0790df1e2597fd 1354-1356
+homeassistant/components/gogogate2/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 14
+homeassistant/components/google_translate/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/image_upload/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 251-254
+homeassistant/components/workday/entity.py
+  s_e99f0297875622::t_0790df1e2597fd 89-95
+tests/components/govee_light_local/conftest.py
+  s_e99f0297875622::t_20382f84efe00b 7,11,13-15,63-96
+tests/components/knx/fixtures/telegrams_history.json
+  s_e99f0297875622::t_20382f84efe00b 1-164
+homeassistant/components/synology_dsm/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 11
+tests/components/ring/snapshots/test_init.ambr
+  s_e99f0297875622::t_20382f84efe00b 1-36
+homeassistant/components/iometer/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/qbus/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 17
+homeassistant/components/vistapool/button.py
+  s_e99f0297875622::t_0790df1e2597fd 70
+homeassistant/components/slide/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 9
+homeassistant/components/tuya/const.py
+  s_e99f0297875622::t_0790df1e2597fd 714
+pylint/plugins/pylint_home_assistant/checkers/domain_constant.py
+  s_e99f0297875622::t_20382f84efe00b 1-5,85,88-92,102-103,111
+tests/components/withings/snapshots/test_sensor.ambr
+  s_e99f0297875622::t_20382f84efe00b 110,172,736,1003,2046,2705,3579,3742,4038
+tests/components/melcloud_home/snapshots/test_sensor.ambr
+  s_e99f0297875622::t_20382f84efe00b 1-343
+homeassistant/components/yale_smart_alarm/button.py
+  s_e99f0297875622::t_0790df1e2597fd 50
+homeassistant/components/hypontech/config_flow.py
+  s_e99f0297875622::t_0790df1e2597fd 7,13-18,20,24-29,37-64,68-95,101,103-109,113-114,120-121,126,133-161
+homeassistant/components/local_todo/todo.py
+  s_e99f0297875622::t_0790df1e2597fd 172,183,185
+homeassistant/components/miele/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 794
+tests/components/html5/test_notify.py
+  s_e99f0297875622::t_20382f84efe00b 8,12,1294-1301
+tests/components/hypontech/conftest.py
+  s_e99f0297875622::t_20382f84efe00b 113
+homeassistant/components/swiss_public_transport/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 93
+homeassistant/components/bluesound/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+tests/components/knx/test_websocket.py
+  s_e99f0297875622::t_20382f84efe00b 3-4,8,211-309,362-365,375-376,379-382,385,388-389
+homeassistant/components/iskra/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+tests/components/eurotronic_cometblue/snapshots/test_init.ambr
+  s_e99f0297875622::t_20382f84efe00b 1-36
+homeassistant/components/rainbird/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/xbox/sensor.py
+  s_e99f0297875622::t_0790df1e2597fd 29
+homeassistant/components/victron_remote_monitoring/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/hypontech/entity.py
+  s_e99f0297875622::t_0790df1e2597fd 21,38
+homeassistant/components/hypontech/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 27,32
+tests/components/tessie/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 5-6,79-153
+requirements_all.txt
+  s_e99f0297875622::t_20382f84efe00b 181,193,233,239,375,389,519,522,660,672,678,800,809,832,838,892,1068,1084,1156,1235,1380,1434-1436,1525,1785,1951,2054,2126,2154,2241,2256,2265,2421,2444,2498,2501,2579,2687,2736,2863,2905,2908,2914,3007,3049,3067,3103,3124,3174,3258,3290,3317,3426,3442,3454
+homeassistant/components/nasweb/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 68
+homeassistant/components/rituals_perfume_genie/entity.py
+  s_e99f0297875622::t_0790df1e2597fd 3-4,17-22,42
+tests/components/blebox/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 18-28,32-33,35-36,38,41,45-46,49-53
+tests/components/homematicip_cloud/test_sensor.py
+  s_e99f0297875622::t_20382f84efe00b 3,748-777
+tests/components/mystrom/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 7,12,73-83
+tests/components/yoto/test_time.py
+  s_e99f0297875622::t_20382f84efe00b 1-118
+homeassistant/components/snoo/switch.py
+  s_e99f0297875622::t_0790df1e2597fd 86,102
+tests/components/huum/snapshots/test_diagnostics.ambr
+  s_e99f0297875622::t_20382f84efe00b 13,32
+homeassistant/components/imou/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/vistapool/coordinator.py
+  s_e99f0297875622::t_0790df1e2597fd 84-102
+tests/components/huum/conftest.py
+  s_e99f0297875622::t_20382f84efe00b 39
+homeassistant/components/hypontech/const.py
+  s_e99f0297875622::t_0790df1e2597fd 7-9
+tests/components/govee_light_local/test_light.py
+  s_e99f0297875622::t_20382f84efe00b 39,48,68-75,87,165,184,198,231,249-251,258,277,292,306,311,334,351,356,376,383,413,428,451,473,488,510,532,544,574,627
+homeassistant/components/melcloud_home/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 75-88
+tests/components/duco/test_sensor.py
+  s_e99f0297875622::t_20382f84efe00b 143-148,154,160-166,173,181,197-199
+homeassistant/components/hunterdouglas_powerview/cover.py
+  s_e99f0297875622::t_0790df1e2597fd 539-543
+homeassistant/components/rainbird/quality_scale.yaml
+  s_e99f0297875622::t_0790df1e2597fd 37
+homeassistant/components/playstation_network/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 93
+homeassistant/components/melcloud_home/sensor.py
+  s_e99f0297875622::t_0790df1e2597fd 1-180
+homeassistant/components/omie/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/devolo_home_control/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 12
+homeassistant/components/enphase_envoy/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 11
+homeassistant/components/melcloud_home/quality_scale.yaml
+  s_e99f0297875622::t_0790df1e2597fd 38
+homeassistant/components/vesync/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 157-167
+homeassistant/components/lookin/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 26
+homeassistant/components/conversation/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 11
+homeassistant/components/hue/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 21-22
+homeassistant/components/icloud/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 70-72
+tests/components/teslemetry/test_services.py
+  s_e99f0297875622::t_20382f84efe00b 36-43
+homeassistant/components/yoto/media_player.py
+  s_e99f0297875622::t_0790df1e2597fd 25,56
+homeassistant/components/openevse/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 11
+tests/components/vistapool/test_light.py
+  s_e99f0297875622::t_20382f84efe00b 101-137
+homeassistant/components/snapcast/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/islamic_prayer_times/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 8-11
+homeassistant/components/yoto/icons.json
+  s_e99f0297875622::t_0790df1e2597fd 1-12
+tests/components/jvc_projector/snapshots/test_init.ambr
+  s_e99f0297875622::t_20382f84efe00b 1-36
+homeassistant/components/qnap_qsw/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 15
+homeassistant/components/usb/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/jvc_projector/entity.py
+  s_e99f0297875622::t_0790df1e2597fd 7,30-32,35
+homeassistant/components/radio_frequency/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 8
+tests/components/yale_smart_alarm/snapshots/test_button.ambr
+  s_e99f0297875622::t_20382f84efe00b 35
+homeassistant/components/zabbix/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 9
+homeassistant/components/holiday/calendar.py
+  s_e99f0297875622::t_0790df1e2597fd 154-160
+homeassistant/components/indevolt/number.py
+  s_e99f0297875622::t_0790df1e2597fd 139-141
+homeassistant/components/input_select/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 24
+tests/components/cloud/snapshots/test_http_api.ambr
+  s_e99f0297875622::t_20382f84efe00b 91,97-98,209,215-216,291,297-298
+tests/components/rainmachine/snapshots/test_diagnostics.ambr
+  s_e99f0297875622::t_20382f84efe00b 29,1162
+homeassistant/helpers/config_validation.py
+  s_e99f0297875622::t_0790df1e2597fd 1417-1420
+homeassistant/components/blink/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 24
+tests/components/rituals_perfume_genie/test_switch.py
+  s_e99f0297875622::t_20382f84efe00b 3-6,20,26,79-98
+homeassistant/components/select/device_action.py
+  s_e99f0297875622::t_0790df1e2597fd 13,18
+homeassistant/components/xbox/binary_sensor.py
+  s_e99f0297875622::t_0790df1e2597fd 19
+homeassistant/components/alexa_devices/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 11
+homeassistant/components/mqtt/client.py
+  s_e99f0297875622::t_0790df1e2597fd 1335-1345
+tests/components/rainmachine/test_sensor.py
+  s_e99f0297875622::t_20382f84efe00b 3,13,36-60
+tests/components/yale_smart_alarm/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 30,90,98-141
+homeassistant/components/knx/diagnostics.py
+  s_e99f0297875622::t_0790df1e2597fd 42-44
+homeassistant/components/opendisplay/quality_scale.yaml
+  s_e99f0297875622::t_0790df1e2597fd 60
+tests/components/indevolt/test_switch.py
+  s_e99f0297875622::t_20382f84efe00b 87,98-99,145,156-157
+homeassistant/components/dhcp/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 19
+homeassistant/components/scrape/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 9
+homeassistant/components/fritz/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 8
+homeassistant/components/ring/entity.py
+  s_e99f0297875622::t_0790df1e2597fd 22-26,184
+homeassistant/components/withings/coordinator.py
+  s_e99f0297875622::t_0790df1e2597fd 4,273
+tests/components/melnor/snapshots/test_init.ambr
+  s_e99f0297875622::t_20382f84efe00b 1-36
+tests/components/duco/fixtures/dynamic_sensor_nodes.json
+  s_e99f0297875622::t_20382f84efe00b 53-78
+tests/components/yoto/snapshots/test_time.ambr
+  s_e99f0297875622::t_20382f84efe00b 1-101
+homeassistant/components/motionblinds_ble/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 13-15
+homeassistant/components/mystrom/light.py
+  s_e99f0297875622::t_0790df1e2597fd 17,60
+tests/components/vistapool/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 106-125
+homeassistant/components/linkplay/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/helpers/llm.py
+  s_e99f0297875622::t_0790df1e2597fd 703,714,965,967
+homeassistant/components/anthemav/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+tests/components/eurotronic_cometblue/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 1-25
+tests/components/opengarage/test_button.py
+  s_e99f0297875622::t_20382f84efe00b 3,6-7,38-58
+homeassistant/components/calendar/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 27
+homeassistant/components/html5/notify.py
+  s_e99f0297875622::t_0790df1e2597fd 12,17,330-331,591-593
+homeassistant/components/yoto/quality_scale.yaml
+  s_e99f0297875622::t_0790df1e2597fd 60,64-65,67
+homeassistant/components/eheimdigital/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 11
+homeassistant/components/blebox/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 4,15-19,53-58,60-61
+homeassistant/components/thread/dataset_store.py
+  s_e99f0297875622::t_0790df1e2597fd 290-292,340-342,380-409
+tests/components/immich/test_sensor.py
+  s_e99f0297875622::t_20382f84efe00b 5-6,9,49-77
+homeassistant/components/melnor/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 11-15
+homeassistant/components/knx/config_flow.py
+  s_e99f0297875622::t_0790df1e2597fd 19,52-53,61-62,64,78-81,83-84,89-90,115,196,929-930,933,935-937,951-960,962,967,973,986-1021
+homeassistant/components/yale_smart_alarm/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 34,58-71
+homeassistant/components/tuya/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 18-20
+tests/components/image_upload/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 9-10,99-152
+homeassistant/components/blink/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 29-34
+homeassistant/components/melcloud_home/climate.py
+  s_e99f0297875622::t_0790df1e2597fd 27-28
+homeassistant/components/yale/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 17
+tests/components/nasweb/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 1-121
+homeassistant/components/rainmachine/entity.py
+  s_e99f0297875622::t_0790df1e2597fd 57
+homeassistant/components/lacrosse_view/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 13-17
+tests/pylint/test_domain_constant.py
+  s_e99f0297875622::t_20382f84efe00b 171,177,183,189,195,201,207,213-246
+homeassistant/components/miele/fan.py
+  s_e99f0297875622::t_0790df1e2597fd 138-139
+homeassistant/components/blebox/strings.json
+  s_e99f0297875622::t_0790df1e2597fd 6-7,9-11,15,21-32,84-87,105-108
+homeassistant/components/rflink/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 9
+homeassistant/components/owntracks/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 29,315
+tests/components/roborock/test_select.py
+  s_e99f0297875622::t_20382f84efe00b 460
+homeassistant/components/blue_current/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/solax/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+tests/components/hypontech/test_config_flow.py
+  s_e99f0297875622::t_20382f84efe00b 3-4,6,9-11,18-19,23,25-49,68-69,73-93,158-159,163,169-198,221-222,227,236,250-251,257
+tests/components/huum/snapshots/test_number.ambr
+  s_e99f0297875622::t_20382f84efe00b 9,32,41,47,49,53
+tests/helpers/template/extensions/test_config_entries.py
+  s_e99f0297875622::t_20382f84efe00b 113-122,126-128,131-143
+homeassistant/components/hypontech/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 10,23
+homeassistant/components/select/reproduce_state.py
+  s_e99f0297875622::t_0790df1e2597fd 8,11
+tests/helpers/test_llm.py
+  s_e99f0297875622::t_20382f84efe00b 1237,1252,1361,1368
+homeassistant/components/esphome/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 22
+tests/components/thread/test_dataset_store.py
+  s_e99f0297875622::t_20382f84efe00b 785-842
+homeassistant/components/knx/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 4,21-22,25-28,32-34,68-69,161-198,255-260
+tests/components/homematicip_cloud/test_device.py
+  s_e99f0297875622::t_20382f84efe00b 25
+tests/components/duco/test_diagnostics.py
+  s_e99f0297875622::t_20382f84efe00b 135-182
+homeassistant/components/matter/climate.py
+  s_e99f0297875622::t_0790df1e2597fd 102,142
+homeassistant/components/geniushub/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 9
+tests/components/knx/conftest.py
+  s_e99f0297875622::t_20382f84efe00b 3-4,9,35-36,39-40,93,355,362-367,442-453
+tests/components/holiday/test_calendar.py
+  s_e99f0297875622::t_20382f84efe00b 4,21,436-477
+homeassistant/components/denonavr/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 10
+homeassistant/components/assist_satellite/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 9
+homeassistant/components/yale_smart_alarm/config_flow.py
+  s_e99f0297875622::t_0790df1e2597fd 67
+homeassistant/components/opendisplay/__init__.py
+  s_e99f0297875622::t_0790df1e2597fd 65-66,72-73,113-114,118-119
+homeassistant/components/switchbot_cloud/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 16
+homeassistant/components/teslemetry/services.py
+  s_e99f0297875622::t_0790df1e2597fd 9-17
+homeassistant/helpers/template/extensions/config_entries.py
+  s_e99f0297875622::t_20382f84efe00b 4,108-110
+homeassistant/components/homematicip_cloud/sensor.py
+  s_e99f0297875622::t_0790df1e2597fd 30,170,209-211,506-521
+homeassistant/components/trane/manifest.json
+  s_e99f0297875622::t_0790df1e2597fd 11
+tests/components/melnor/test_init.py
+  s_e99f0297875622::t_20382f84efe00b 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "faca50f26dc14960650e1cd205c6c796bdff78ed",
+  "prompts": {},
+  "sessions": {
+    "s_e99f0297875622": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6797fabd-a368-46db-b66b-a0f3c6b00c8d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}

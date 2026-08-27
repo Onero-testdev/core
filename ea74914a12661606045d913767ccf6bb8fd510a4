@@ -1,0 +1,19 @@
+homeassistant/components/switchbot/strings.json
+  s_96455c312e0390::t_4763850c208c86 286-291
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ea74914a12661606045d913767ccf6bb8fd510a4",
+  "prompts": {},
+  "sessions": {
+    "s_96455c312e0390": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9791d29f-f516-4845-b1a5-7bcd919c2b7e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}

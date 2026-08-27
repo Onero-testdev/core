@@ -1,0 +1,21 @@
+tests/components/switchbot/test_light.py
+  s_e4582bfbf454bb::t_fd3599c4947886 36,411
+tests/components/switchbot/__init__.py
+  s_e4582bfbf454bb::t_fd3599c4947886 1185-1213
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "81084a43f40af48bea3886b03633f61ea9cab738",
+  "prompts": {},
+  "sessions": {
+    "s_e4582bfbf454bb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a017f6-f459-7de3-85d4-67a29c341c98",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Fan Kai <fankai@onero.com>"
+    }
+  }
+}

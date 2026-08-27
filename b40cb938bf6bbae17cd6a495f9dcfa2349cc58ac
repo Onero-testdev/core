@@ -1,0 +1,25 @@
+homeassistant/components/switchbot/__init__.py
+  s_7555072531523e::t_b41b8d727eeb72 160
+  s_7555072531523e::t_dc451db5b9f73a 244
+homeassistant/components/switchbot/const.py
+  s_7555072531523e::t_52cd260de8b385 114
+  s_7555072531523e::t_6760fe621ebbf8 59
+  s_7555072531523e::t_404c96adf3ccdf 208
+  s_7555072531523e::t_0e16d518c8525b 173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "b40cb938bf6bbae17cd6a495f9dcfa2349cc58ac",
+  "prompts": {},
+  "sessions": {
+    "s_7555072531523e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d610ed33-8799-4d81-b58d-761535af525d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "testdev <testdev@onero.com>"
+    }
+  }
+}

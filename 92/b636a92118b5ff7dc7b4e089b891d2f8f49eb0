@@ -1,0 +1,24 @@
+homeassistant/components/switchbot/__init__.py
+  h_538e101a9330e8 200-204,265
+homeassistant/components/switchbot/config_flow.py
+  h_538e101a9330e8 485
+homeassistant/components/switchbot/const.py
+  h_538e101a9330e8 50,105,164,199
+tests/components/switchbot/__init__.py
+  h_538e101a9330e8 863-887
+tests/components/switchbot/test_config_flow.py
+  h_538e101a9330e8 1901-1961
+tests/components/switchbot/test_lock.py
+  h_538e101a9330e8 27,45,97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "92b636a92118b5ff7dc7b4e089b891d2f8f49eb0",
+  "prompts": {},
+  "humans": {
+    "h_538e101a9330e8": {
+      "author": "testdev <testdev@onero.com>"
+    }
+  }
+}

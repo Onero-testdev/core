@@ -1,0 +1,33 @@
+homeassistant/components/switchbot/const.py
+  s_e4582bfbf454bb::t_077d4c88f3ee7f 50,105,164,199
+tests/components/switchbot/test_lock.py
+  s_e4582bfbf454bb::t_85f67202345179 143-160,162-164
+  s_e4582bfbf454bb::t_077d4c88f3ee7f 27,45,97
+  s_e4582bfbf454bb::t_fc89eafc998219 161
+tests/components/switchbot/test_config_flow.py
+  s_e4582bfbf454bb::t_604921940456cb 29
+  s_e4582bfbf454bb::t_f7d41144338e53 1921-1925,1932
+  s_e4582bfbf454bb::t_92686d91463854 180-213
+homeassistant/components/switchbot/__init__.py
+  s_e4582bfbf454bb::t_077d4c88f3ee7f 200,265
+homeassistant/components/switchbot/config_flow.py
+  s_e4582bfbf454bb::t_077d4c88f3ee7f 485
+tests/components/switchbot/__init__.py
+  s_e4582bfbf454bb::t_077d4c88f3ee7f 863-864,874,881
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "e55772f24f9ac692796aedfd80a4128a3873f90d",
+  "prompts": {},
+  "sessions": {
+    "s_e4582bfbf454bb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a017f6-f459-7de3-85d4-67a29c341c98",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Fan Kai <fankai@onero.com>"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+tests/components/switchbot/test_light.py
+  s_e4582bfbf454bb::t_397a6abfc020bc 737,816-817
+tests/components/switchbot/test_fan.py
+  s_e4582bfbf454bb::t_397a6abfc020bc 240,242-251,260,287
+tests/components/switchbot/test_config_flow.py
+  s_e4582bfbf454bb::t_397a6abfc020bc 29,215-248
+  s_e4582bfbf454bb::t_c1412bf1f110fa 249-251
+homeassistant/components/switchbot/light.py
+  s_e4582bfbf454bb::t_397a6abfc020bc 237,245-249,276
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "395175aee5349b219f552e08e2a57698ecf60676",
+  "prompts": {},
+  "sessions": {
+    "s_e4582bfbf454bb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a017f6-f459-7de3-85d4-67a29c341c98",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Fan Kai <fankai@onero.com>"
+    }
+  }
+}
